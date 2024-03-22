@@ -27,22 +27,20 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 7. Upload `what-could-go-worng-av.pcio`
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
-## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+## Gameplay Instructions with New Rules
+All players start with 5 white cards from their stack.
+A spinner determines the first Card Czar, who draws a black prompt card to share with the group.
+Players submit one white response card face down.
+The Card Czar reads each submitted card aloud.
+After selecting the best response, the Card Czar initiates a mini-debate on the selection. Players can defend their cards with humorous or persuasive arguments. Successful arguments earn extra points.
+Following a brief discussion, a new Card Czar is chosen, and the game continues with players refreshing their hands to five cards.
+Players are encouraged to explore new ideas and discuss the implications of various scenarios.
 
-### During the game
-1. Take notes on ideas that you have not thought about before
-2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
-3. Some of the cards may be upsetting. (Such as, a person is abused.)
-4. It’s fine to take time to have discussion.
-5. Try not to get side tracked, though!
+## During the Game
+Engage in thoughtful discussion and take notes on new perspectives.
+Explore the connections between cause and effect cards, allowing the conversation to guide the gameplay.
+Be mindful of sensitive topics and maintain a respectful atmosphere for discussion.
+Stay focused on the game's objectives while enjoying the exploration of ethical considerations in AI and technology.
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
