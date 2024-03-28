@@ -28,17 +28,22 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
 ## Gameplay Instructions
+1.1. First the players need to split into two teams equally: so there will basically be a champion and a team who would win, this will allow the flow to be more fluid
 1. All players draw 5 white cards from their stack 
 2. Click the spinner to choose the first player who will be the Card Czar.
 3. The Card Czar then pull a black prompt card and reads it to the group 
+3.1. The team that lays out its card last will get a -1 (the point is to encourage the game to go faster)
+3.2. Timer: if the player doesn't lay out his card by the time the timer goes off, he'll automatically skip this turn (giving less chance for his team to win, and him to be picked)
+3.3. We can also instaure themed turn as an additionnal challenge (Introducing themed rounds based on specific genres, such as horror, science fiction, or fantasy. Each themed round could feature scenario cards tailored to that genre, allowing players to explore different storytelling tropes and archetypes. Themed rounds add thematic depth to the game and provide players with new creative challenges to tackle)
 4. All other players then put 1 white response card face down in their slot.
 5. The Card Czar then flips and reads each white card out loud.
 6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
+7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion. 
+##(people shouldn't have the right to award one point to your own teammate in order for the game to be more fair)
 8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
 
 ### During the game
-1. Take notes on ideas that you have not thought about before
+1. Take notes on ideas that you have not thought about before (Maybe taking notes doesn't feel like a game: it becomes way too serious and boring)
 2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
 3. Some of the cards may be upsetting. (Such as, a person is abused.)
 4. It’s fine to take time to have discussion.
