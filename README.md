@@ -53,6 +53,8 @@ Points can also be awarded to players who contribute valuable insights or ideas 
 7. Rotation and Continuation:
 The player with the most points becomes the Problem Guide for the next round.
 The game continues with new prompts and responses, and players take turns fulfilling the role of the Problem Guide.
+8. Rule of the "Joker Card":
+Add a Joker card to the game. When the Joker card is selected as the prompt, all players must provide a completely wacky or absurd response. The funniest or most off-the-wall response earns two points instead of one. This rule adds a touch of whimsy and surprise to the game, encouraging players to unleash their wildest imaginations.
 
 
 ## During the game
