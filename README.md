@@ -18,14 +18,25 @@ Kaddour, J. et al. (2023) ‘Challenges and Applications of Large Language Model
 While autonomous vehicles have the potential to greatly improve our daily lives, there are also challenges and potential downsides to these systems. In this workshop, we intend to foster discussions about the potential negative aspects of autonomous cars in hopes of surfacing challenges that should be considered during the design process rather than after deployment. We will spur these conversations through a review of participant position statements and through group discussion facilitated by a card game called “What Could Go Wrong?” Our goal is to consider the autonomous vehicle’s benefits—improving safety, increasing mobility, reducing emissions—against potential drawbacks. By identifying potential harms and downsides, the workshop attendees, and the AutoUI community more broadly can design well-considered solutions.
 
 ## Game Setup Instructions
-1. Download this repository
-2. Go to https://playingcards.io/game/standard-deck to start a custom deck
-3. Enter the virtual card table
-4. Click the `Edit Table` icon in the green toolbard
-5. Select `Room Options`
-6. Select  `Import From File`
-7. Upload `what-could-go-worng-av.pcio`
-8. Click `Edit Table` to exit editing mode and go into gameplay mode
+To get you started playing the game smoothly, we've prepared a step-by-step guide for you. 
+Please follow these steps:
+Step 1: Download the resource library
+First, you need to download the library containing the game files. Please visit the link provided and download the library to your device.
+Step 2: Enter the virtual poker table
+Open your browser and visit https://playingcards.io/game/standard-deck to start using your custom deck.
+After entering the website, you will see a virtual card table interface.
+Step 3: Edit the Table
+Click the "Edit Table" icon in the green toolbar.
+Select "Room Options" in the pop-up menu.
+Step 4: Import game files
+In the room options, find and select Import From File.
+Upload the game file what-could-go-wrong-av.pcio you downloaded earlier.
+Step 5: Start the game
+After completing the file upload, click "Edit Table" to exit editing mode and you will enter game mode.
+Congratulations, now you can start playing!
+Please make sure all players follow these steps so everyone can get into the game smoothly. If you have any questions or need help, please feel free to contact our customer service team.
+
+
 
 ## Gameplay Instructions
 1. All players draw 5 white cards from their stack 
