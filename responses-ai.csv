@@ -1,7 +1,7 @@
 RESPONSE,NUMBERS
 Misidentification (The incorrect recognition of a person or object by a system),R1
 Servers go down,R2
-Out of scope data ( Data or scenarios that fall outside the parameters for which a system was designed or trained),R3
+Out of scope data (Data or scenarios that fall outside the parameters for which a system was designed or trained),R3
 Biased data (Data that unfairly prejudices the outcome of a system's operations, often reflecting existing inequalities or stereotypes),R4
 Privacy breach (An incident where sensitive, protected, or confidential data is accessed or disclosed without authorization),R5
 Non-identification,R6
