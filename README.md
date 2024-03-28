@@ -33,7 +33,7 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 3. The Card Czar then pull a black prompt card and reads it to the group 
 4. All other players then put 1 white response card face down in their slot.
 5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
+6. The Card Czar then picks one of the white cards to further discuss. The Card Czar then need to explain to all others players why he chose this white card. +1 point goes to the player whose card was chosen.
 7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
 8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
 
