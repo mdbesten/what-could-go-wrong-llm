@@ -37,7 +37,7 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
 8. Players are encouraged to swap event cards with others before submitting them to the Card Czar. This allows for strategic decision-making and adds a layer of interaction between players.
 9. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
-9. Optional: Introduce a "Wildcard Round" where players can play any card from their hand instead of following the prompt. 
+10. Optional: Introduce a "Wildcard Round" where players can play any card from their hand instead of following the prompt. 
 
 ### During the game
 1. Take notes on ideas that you have not thought about before
