@@ -1,100 +1,43 @@
 RESPONSE,NUMBERS
-Misidentification,R1
-Servers go down,R2
-Out of scope data,R3
-Biased data,R4
-Privacy breach,R5
-Non-identification,R6
-Hacking,R7
-Adopted for nefarious reasons,R8
-Non-consenter infringement,R9
-Someone is joking,R10
-Someone is acting an emotion,R11
-Someone with allergies,R12
-Glasses,R13
-Masks,R14
-Racist algorithm,R15
-Used to traffic people,R16
-Used to traffic drugs,R17
-Used to transport illegal goods,R18
-Corruption of locative data,R19
-Internet goes down,R20
-Security certificate expires,R21
-Manufacturer can't meet demands,R22
-Bug in the code,R23
-Becomes sentient,R24
-Adversarial attacks,R25
-Datasets are biased,R26
-Personal data leaked,R27
-Automation fails,R28
-Cloud services go down,R29
-Hackers,R30
-Taking the wrong route,R31
-Asks too many questions,R32
-Functions too fast for humans,R33
-Does not respond to instructions,R34
-All systems just stop running one day,R35
-Random crashes,R36
-Mad dogs,R37
-Locusts,R38
-Infested by ants,R39
-Bodily Harm,R40
-Rejected for service,R41
-People reject the product or service,R42
-Increased prejudice,R43
-Enhances systematic bias,R44
-Reduces economic access,R45
-Reduces social interaction,R46
-Prevents social access,R47
-People lose jobs,R48
-Embarrasses user,R49
-It accelerates climate change,R50
-Contaminates fresh water,R51
-Eradicates a species,R52
-Impairs living objects,R53
-Causes a resurgence of coal fired power,R54
-Increases greenhouse emissions,R55
-Endless legal proceedings,R56
-Regulations change,R57
-Creates a monopoly,R58
-Becomes completely unregulated,R59
-Foreign intervention,R60
-Continues the inequalities of capitalism,R61
-Promotes race division,R62
-Promotes armed revolution,R63
-Tragedy of the commons,R64
-Causes a pandemic,R65
-people are addicted to it,R66
-Market meltdown,R67
-People stop believing in science,R68
-Used by a repressive regime,R69
-Problematic power structures,R70
-People are silenced,R71
-Increases migration,R72
-Increase living density,R73
-Reduces living density,R74
-Limits people's movement,R75
-Blind user,R76
-Sick user,R77
-Wheelchair user,R78
-Deaf user,R79
-LGBTQIA+ user,R80
-Child user,R81
-Teen user,R82
-Elderly user,R83
-Thieves,R84
-Corrupt politicians,R85
-Introverts,R86
-Group of teens,R87
-Drunk user,R88
-High user,R89
-Schizophrenic user,R90
-Non-english speakers,R91
-Homeless user,R92
-Cognitively disabled user,R93
-Corrupt police,R94
-Used by children,R95
-Transgender user,R96
-Used by non-expert,R97
-Unionized labor,R98
-Immigrants,R99
+Cheating, R1
+Contamination, R2
+Charging infrastructure, R3
+Effectiveness, R4
+Land use, R5
+Habitat loss, R6
+Single-use, R7
+Scarcity, R8
+Cost, R9
+Retrofitting, R10
+Invasive species, R11
+Deforestation, R12
+Infrastructure, R13
+Coral reefs, R14
+Resilience, R15
+Pollution, R16
+Space, R17
+Job displacement, R18
+Succession, R19
+Greenwashing, R20
+Awareness, R21
+Measurement, R22
+Overfishing, R23
+Habitat fragmentation, R24
+Inequality, R25
+Infrastructure, R26
+Poaching, R27
+Resettlement, R28
+Patenting, R29
+Supply chain, R30
+Cheating, R31
+Free-riders,R32
+Technical issues,R33
+Accessibility,R34
+Bias,R35
+Distraction,R36
+Isolation,R37
+Acceptance, R38
+Violence, R39
+Restrictions, R40
+Dogma, R41
+Prejudice, R42
