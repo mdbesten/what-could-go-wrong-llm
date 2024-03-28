@@ -48,10 +48,25 @@
 \cardbackstyle[\Huge]{plain}
 \cardfrontstyle[\large]{headings}
 
+% Define commands for player scores
+\newcommand{\playerscoreA}{0}
+\newcommand{\playerscoreB}{0}
+\newcommand{\playerscoreC}{0}
 
+% Define commands to add points to player scores
+\newcommand{\addpointsA}[1]{\addtocounter{playerscoreA}{#1}}
+\newcommand{\addpointsB}[1]{\addtocounter{playerscoreB}{#1}}
+\newcommand{\addpointsC}[1]{\addtocounter{playerscoreC}{#1}}
+
+% Define commands to display player scores
+\newcommand{\displayscores}{%
+    \par
+    Player A Score: \arabic{playerscoreA} points\par
+    Player B Score: \arabic{playerscoreB} points\par
+    Player C Score: \arabic{playerscoreC} points\par
+}
 
 \begin{document}
-
 
 \cardfrontfoot{What could go wrong?\qquad\faicon{creative-commons}}
 
@@ -128,5 +143,11 @@
     \end{flashcard}
 }
 
+% Example usage of adding points to players' scores
+\addpointsA{1} % Add 1 point to Player A's score
+\addpointsB{2} % Add 2 points to Player B's score
+
+% Display players' scores
+\displayscores
 
 \end{document}
