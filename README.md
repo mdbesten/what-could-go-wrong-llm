@@ -44,6 +44,21 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 4. It’s fine to take time to have discussion.
 5. Try not to get side tracked, though!
 
+### Engagement and Community Building Instructions
+
+#### During and After the Game:
+1. Participate in Community Polls : Engage with live polls or voting mechanisms during the game to select your favorite responses or to highlight the most pertinent issues discussed. Your votes help shape the game's direction and highlight key learning points.
+2. Join Online Discussion Forums: After the game, continue the conversation in dedicated forums or chat rooms. This is your space to share additional insights, discuss the outcomes of the game, or propose new ideas for cards. The forums serve as a platform to deepen the discussions and connect with other players.
+3. Embrace Asynchronous Play: The game is designed to accommodate asynchronous play, allowing you to make moves at your pace and participate in discussions that unfold over time. This feature ensures that players from different time zones or with varying schedules can still engage fully with the game and the community.
+
+#### Utilizing the Online Platform:
+1. The game's online platform will host the polls and forums. Familiarize yourself with the platform to make the most of these features.
+2. For asynchronous play, the platform will track the progress of the game and discussions, enabling you to jump back in at any time and catch up with the latest developments.
+
+### Your Role in the Community:
+1. Be an active participant: Your engagement, whether through voting, discussing, or playing, contributes to the richness of the game experience for all participants.
+2. Share and propose: Don't hesitate to share your insights or suggest new ideas for the game. Your contributions can lead to new card additions or changes in the game's dynamics.
+
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
 
