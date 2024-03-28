@@ -36,6 +36,7 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
 7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
 8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+9. At any time during the discussion, players may use a "Wildcard" card to introduce a new topic or perspective for consideration. The Card Czar decides whether to allow the wildcard and its relevance to the current discussion.
 
 ### During the game
 1. Take notes on ideas that you have not thought about before
