@@ -15,7 +15,8 @@ Kaddour, J. et al. (2023) ‘Challenges and Applications of Large Language Model
 
 
 ## Abstract
-While autonomous vehicles have the potential to greatly improve our daily lives, there are also challenges and potential downsides to these systems. In this workshop, we intend to foster discussions about the potential negative aspects of autonomous cars in hopes of surfacing challenges that should be considered during the design process rather than after deployment. We will spur these conversations through a review of participant position statements and through group discussion facilitated by a card game called “What Could Go Wrong?” Our goal is to consider the autonomous vehicle’s benefits—improving safety, increasing mobility, reducing emissions—against potential drawbacks. By identifying potential harms and downsides, the workshop attendees, and the AutoUI community more broadly can design well-considered solutions.
+While artificial intelligence and large language models (LLMs) hold the promise of revolutionizing various sectors of our society, they also come with their own set of challenges and potential pitfalls. In this workshop, our aim is to encourage discussions around the possible negative impacts of AI and LLMs to bring to light issues that need to be addressed during the development phase rather than post-deployment. This discussion will be sparked by reviewing participant position statements and through group discussions facilitated by a card game titled "What Could Go Wrong?" Our objective is to weigh the benefits of AI and LLMs—such as enhancing efficiency, fostering innovation, and facilitating problem-solving—against the possible drawbacks. By uncovering potential harms and disadvantages, the workshop participants, and the AI research and development community at large, can design more thoughtful and responsible solutions.
+
 
 ## Game Setup Instructions
 1. Download this repository
