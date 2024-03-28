@@ -35,7 +35,6 @@ Click on "Edit Table" again to exit editing mode and transition into gameplay mo
 
 
 ## Gameplay Instructions
-
 1. Roles and Setup :
 Designate one player as the "Problem Guide" for the game.
 All players should ensure they have access to the virtual card table and have their white card stack ready.
@@ -57,7 +56,6 @@ The game continues with new prompts and responses, and players take turns fulfil
 
 
 ## During the game
-
 1. Foster creativity in responses and discussions.
 2. Utilize interactive features such as polls to gather player opinions.
 3. Be open to non-linear discussions and allow players to explore new topics.
