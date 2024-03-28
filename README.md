@@ -36,6 +36,7 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
 7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
 8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+9. Carte Joker : Introduisez une carte Joker dans le jeu. Cette carte peut être utilisée une fois par partie par n'importe quel joueur. Lorsqu'un joueur utilise la carte Joker, au lieu de sélectionner une carte réponse habituelle, ce joueur peut poser une question ou proposer une solution créative à un problème évoqué lors de la discussion. Les autres joueurs doivent alors réagir à cette question ou proposition, en ajoutant leurs propres idées ou en discutant des implications. Si la question ou la proposition du joueur qui a utilisé la carte Joker génère une discussion intéressante ou des idées novatrices, ce joueur gagne un point bonus.
 
 ### During the game
 1. Take notes on ideas that you have not thought about before
