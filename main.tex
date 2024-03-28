@@ -115,18 +115,17 @@
 }
 
 \DTLforeach{response}{%
-  %% Map each column header in your .csv file to a command
-	\Description=RESPONSE,%
-  \Category=LABEL,%
-  \Id=NUMBERS%
-}{%%% Start designing your output text!
-\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category} \quad Difficulty: \promptdifficulty]{%
-%\begin{verse}[\versewidth]
-\Description
-%\end{verse}
-}
-\faicon{tasks}\quad{\sc \deck}\\
-\end{flashcard}
+    \Description=RESPONSE,%
+    \Category=LABEL,%
+    \Id=NUMBERS,%
+    \responsedifficulty=DIFFICULTY,%
+    \responselanguage=LANGUAGE%
+}{%
+    \begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category} \quad Difficulty: \responsedifficulty \quad Language: \responselanguage]{%
+        \Description
+    }
+    \faicon{tasks}\quad{\sc \deck}\\
+    \end{flashcard}
 }
 
 
