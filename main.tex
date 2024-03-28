@@ -97,14 +97,15 @@
     \end{tabular}
 \end{flashcard}
 
-
 \DTLforeach{prompt}{%
-    %% Map each column header in your .csv file to a command
-	\Description=PROMPT,%
-    \Category=LABEL,%
-    \Id=NUMBERS%
-}{%%%  Start designing your output text!
-\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category}]{%
+  %% Map each column header in your .csv file to a command
+  \Description=PROMPT,%
+  \Category=LABEL,%
+  \Id=NUMBERS,%
+  \promptdifficulty=\DTLfetch{prompt}{ID}{\deck:\quad\Id}{DIFFICULTY},%   <--- Added line to fetch difficulty
+  \promptlanguage=\DTLfetch{prompt}{ID}{\deck:\quad\Id}{LANGUAGE}%    <--- Added line to fetch language
+}{%%% Start designing your output text!
+\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category} \quad Difficulty: \promptdifficulty \quad Language: \promptlanguage]{%  <--- Added difficulty and language info to card
 %\begin{verse}[\versewidth]
 \Description
 %\end{verse}
@@ -114,15 +115,17 @@
 }
 
 \DTLforeach{response}{%
-    %% Map each column header in your .csv file to a command
+  %% Map each column header in your .csv file to a command
 	\Description=RESPONSE,%
-    \Category=LABEL,%
-    \Id=NUMBERS%
-}{%%%  Start designing your output text!
-\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category}]{%
+  \Category=LABEL,%
+  \Id=NUMBERS%
+}{%%% Start designing your output text!
+\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category} \quad Difficulty: \promptdifficulty]{%
+%\begin{verse}[\versewidth]
 \Description
+%\end{verse}
 }
-\faicon{reply}\quad{\sc \deck}\\
+\faicon{tasks}\quad{\sc \deck}\\
 \end{flashcard}
 }
 
