@@ -130,8 +130,10 @@
 	\Description=PROMPT,%
     \Category=LABEL,%
     \Id=NUMBERS%
+    %% Add choice of language: French or English
+    \promptlanguage=\DTLfetch{prompt}{ID}{\deck:\quad\Id}{LANGUAGE}%
 }{%%%  Start designing your output text!
-\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category}]{%
+\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category}\quad Language: \promptlanguage]{%
 %\begin{verse}[\versewidth]
 \Description
 %\end{verse}
@@ -145,8 +147,10 @@
 	\Description=RESPONSE,%
     \Category=LABEL,%
     \Id=NUMBERS%
+    %% Add choice of language: French or English
+    \responselanguage=LANGUAGE%
 }{%%%  Start designing your output text!
-\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category}]{%
+\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category} \quad Language: \responselanguage]{%
 \Description
 }
 \faicon{reply}\quad{\sc \deck}\\
