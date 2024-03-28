@@ -18,31 +18,51 @@ Kaddour, J. et al. (2023) ‘Challenges and Applications of Large Language Model
 While autonomous vehicles have the potential to greatly improve our daily lives, there are also challenges and potential downsides to these systems. In this workshop, we intend to foster discussions about the potential negative aspects of autonomous cars in hopes of surfacing challenges that should be considered during the design process rather than after deployment. We will spur these conversations through a review of participant position statements and through group discussion facilitated by a card game called “What Could Go Wrong?” Our goal is to consider the autonomous vehicle’s benefits—improving safety, increasing mobility, reducing emissions—against potential drawbacks. By identifying potential harms and downsides, the workshop attendees, and the AutoUI community more broadly can design well-considered solutions.
 
 ## Game Setup Instructions
-1. Download this repository
-2. Go to https://playingcards.io/game/standard-deck to start a custom deck
-3. Enter the virtual card table
-4. Click the `Edit Table` icon in the green toolbard
-5. Select `Room Options`
-6. Select  `Import From File`
-7. Upload `what-could-go-worng-av.pcio`
-8. Click `Edit Table` to exit editing mode and go into gameplay mode
+1. Download the Repository:
+Begin by downloading this repository to access the game files.
+2. Create a Custom Deck:
+Visit playingcards.io/game/standard-deck to create a custom deck for the game.
+3. Enter the Virtual Card Table:
+Access the virtual card table where the game will take place.
+4. Access Editing Mode:
+Click on the "Edit Table" icon located in the green toolbar to enter editing mode.
+5. Adjust Room Options:
+Select "Room Options" to customize the settings for your game.
+6. Import Game File:
+Choose "Import From File" and upload the file named "what-could-go-worng-av.pcio" that you previously downloaded.
+7. Exit Editing Mode:
+Click on "Edit Table" again to exit editing mode and transition into gameplay mode.
+
 
 ## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+1. Roles and Setup :
+Designate one player as the "Problem Guide" for the game.
+All players should ensure they have access to the virtual card table and have their white card stack ready.
+2. Initiating the Round :
+The Problem Guide selects a black prompt card from the deck and reads it aloud to all players.
+3. Submission of Responses :
+Other players submit their responses via the chat function. Each player should input one white response card corresponding to the prompt.
+4. Reviewing Responses:
+Once all responses are submitted, the Problem Guide reveals and reads each white response card aloud to the group.
+5. Discussion and Selection:
+The Problem Guide selects one response card for further discussion based on its relevance or creativity. The player whose card is chosen earns a point.
+Players use emojis, GIFs, or text to express their opinions and reactions during the discussion.
+6. Awarding Points:
+After the discussion, players vote for the most creative or relevant response. The player with the most votes receives additional points.
+Points can also be awarded to players who contribute valuable insights or ideas during the discussion.
+7. Rotation and Continuation:
+The player with the most points becomes the Problem Guide for the next round.
+The game continues with new prompts and responses, and players take turns fulfilling the role of the Problem Guide.
+8. Rule of the "Joker Card":
+Add a Joker card to the game. When the Joker card is selected as the prompt, all players must provide a completely wacky or absurd response. The funniest or most off-the-wall response earns two points instead of one. This rule adds a touch of whimsy and surprise to the game, encouraging players to unleash their wildest imaginations.
 
-### During the game
-1. Take notes on ideas that you have not thought about before
-2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
-3. Some of the cards may be upsetting. (Such as, a person is abused.)
-4. It’s fine to take time to have discussion.
-5. Try not to get side tracked, though!
+
+## During the game
+1. Foster creativity in responses and discussions.
+2. Utilize interactive features such as polls to gather player opinions.
+3. Be open to non-linear discussions and allow players to explore new topics.
+4. Host themed game sessions where cards are centered around specific subjects.
+5. Reward active participation and innovation with virtual prizes or special rewards.ugh!
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
