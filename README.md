@@ -28,6 +28,7 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
 ## Gameplay Instructions
+0. The game begins. One of the players reads the "introductive speech".
 1. All players draw 5 white cards from their stack 
 2. Click the spinner to choose the first player who will be the Card Czar.
 3. The Card Czar then pull a black prompt card and reads it to the group 
@@ -43,6 +44,12 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 3. Some of the cards may be upsetting. (Such as, a person is abused.)
 4. It’s fine to take time to have discussion.
 5. Try not to get side tracked, though!
+
+### Introdutive speech
+"Welcome, thinkers, innovators, and futurists! You're about to embark on a journey into the unknown, the uncharted territories of artificial intelligence and large language models.
+In our hands, AI and LLMs hold the power to redefine the way we live, work, and interact. But with great power comes great responsibility. As we stand on the brink of this technological frontier, it's crucial to challenge and to anticipate the unforeseen consequences of our creations.
+Through this game, we'll explore the brightest possibilities and the darkest corners of AI and LLM development. Each card you draw, each scenario you debate, is a step towards understanding the profound impact these technologies could have on our world. Our goal? To spark conversation, to inspire thoughtful design, and to ensure that as we march forward, we do so with our eyes wide open to both the marvels and the pitfalls of our advancements.
+So, gather your wits, prepare your arguments, and let he game begin!"
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
