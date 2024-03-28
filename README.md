@@ -36,33 +36,33 @@ Click on "Edit Table" again to exit editing mode and transition into gameplay mo
 
 ## Gameplay Instructions
 
-Roles and Setup :
+1. Roles and Setup :
 Designate one player as the "Problem Guide" for the game.
 All players should ensure they have access to the virtual card table and have their white card stack ready.
-Initiating the Round :
+2. Initiating the Round :
 The Problem Guide selects a black prompt card from the deck and reads it aloud to all players.
-Submission of Responses :
+3. Submission of Responses :
 Other players submit their responses via the chat function. Each player should input one white response card corresponding to the prompt.
-Reviewing Responses:
+4. Reviewing Responses:
 Once all responses are submitted, the Problem Guide reveals and reads each white response card aloud to the group.
-Discussion and Selection:
+5. Discussion and Selection:
 The Problem Guide selects one response card for further discussion based on its relevance or creativity. The player whose card is chosen earns a point.
 Players use emojis, GIFs, or text to express their opinions and reactions during the discussion.
-Awarding Points:
+6. Awarding Points:
 After the discussion, players vote for the most creative or relevant response. The player with the most votes receives additional points.
 Points can also be awarded to players who contribute valuable insights or ideas during the discussion.
-Rotation and Continuation:
+7. Rotation and Continuation:
 The player with the most points becomes the Problem Guide for the next round.
 The game continues with new prompts and responses, and players take turns fulfilling the role of the Problem Guide.
 
 
 ## During the game
 
-Foster creativity in responses and discussions.
-Utilize interactive features such as polls to gather player opinions.
-Be open to non-linear discussions and allow players to explore new topics.
-Host themed game sessions where cards are centered around specific subjects.
-Reward active participation and innovation with virtual prizes or special rewards.ugh!
+1. Foster creativity in responses and discussions.
+2. Utilize interactive features such as polls to gather player opinions.
+3. Be open to non-linear discussions and allow players to explore new topics.
+4. Host themed game sessions where cards are centered around specific subjects.
+5. Reward active participation and innovation with virtual prizes or special rewards.ugh!
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
