@@ -7,7 +7,7 @@ This repository hosts the files used for the What Could Go Wrong? digital card g
 The version here presents a further iteration on the game. In this iteration, prompts focus on peer communities, online and in person. Example applications are drawn from two sources: Kaddour et al.(2023) and FlowGPT.com. The list of potential ethical issues stems from wide range of sources, including the online peer collaboration of Dauphine Students. Existing prompts for AI and other iterations have been narrowed down, and added to by students. Besides, this iteration of the game includes a LaTeX template, which can be used to convert the digital card game into a physical card game.
 
 The digital card game can be loaded into and played on PlayingCards.io. Custom cards can be added using the `csv` files for `prompts` and `responses`
-
+111
 ### References
 
 Baker, S.D. and Comer, D.R. (2012) '"Business Ethics Everywhere": An Experiential Exercise to Develop Students' Ability to Identify and Respond to Ethical Issues in Business', Journal of Management Education, 36(1), pp. 95--125. Available at: <https://doi.org/10.1177/1052562911408071>.
