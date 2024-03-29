@@ -43,6 +43,7 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 3. Some of the cards may be upsetting. (Such as, a person is abused.)
 4. It’s fine to take time to have discussion.
 5. Try not to get side tracked, though!
+6. Introducing a "Pass" option for players who do not wish to contribute a response card for a particular prompt. This allows individuals to opt out of providing a response without feeling pressured or uncomfortable. This way, everyone can still participate in the game at their own comfort level without feeling excluded or forced into a situation they're not comfortable with.
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
