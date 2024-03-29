@@ -45,6 +45,17 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 4. It’s fine to take time to have discussion.
 5. Try not to get side tracked, though!
 
+### New features: 
+#### Scoring System
+Players can earn points based on the relevance, creativity, or depth of insights shared during discussions prompted by the cards. Points are awarded by other players for making good points in the discussions.
+
+#### Language Choices
+The game includes prompts and responses in various languages to accommodate players from different linguistic backgrounds. The language choices aim to promote inclusivity and diversity among players.
+
+#### Difficulty Choices
+Prompts and responses are categorized by difficulty levels to provide players with a range of challenges. The difficulty choices allow players to tailor the game to their preferences and skill levels.
+
+
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
 
@@ -83,5 +94,3 @@ For some motivation on why we want to develop new hazard analysis games.
   year={2022}
 }
 ```
-
-

@@ -1,69 +1,176 @@
-PROMPT,NUMBERS
-Autonomous school bus,P1
-Autonomous medical transportation,P2
-Autonomous drone surveillance of sporting events,P3
-Autonomous robot vacuum,P4
-Blood delivery via Drone,P5
-Drone deliver (air),P6
-Autonomous package delivery,P7
-Follow me drones,P8
-Autonomous parking lot vehicle,P9
-Autonomous Inspection drones,P10
-Autonomous manufacturing robots (arms),P11
-Autonomous warehouse robots,P12
-Delivery robot in hospital,P13
-Sidewalk delivery robot,P14
-Delivery robot for hotel,P15
-Autonomous COVID checking robot,P16
-Autonomous picking for agriculture,P17
-Autonomous Picking products warehouse robots,P18
-Autonomous robot pet for companionship,P19
-Autonomous weeding machines,P20
-Autonomous planting robots,P21
-Autonomous take out food delivery,P22
-Autonomous wheelchairs,P23
-Computer vision system to identify weeds in a field,P24
-Automated stock picker based on twitter commentary,P25
-Automated flight planning for neighborhood drone delivery,P26
-Automated scheduling system for hotel workers,P27
-Automated emotion identification for customs interviews,P28
-Computer vision to identify faces for access to offices,P29
-Automated stock picker that uses computer vision to identify products,P30
-Automated recommendation system for financial planning,P31
-Automated food recommender for specialty diet,P32
-Exercise recommender based on daily movement and health information,P33
-Deepfake generation of deceased actors for new movies,P34
-Automated risk detection for financial support,P35
-Automated cancer treatment recommendation system,P36
-Automated route selection for GPS,P37
-Automated task prioritization for software development team,P38
-Generative playwriting system,P39
-Generative music,P40
-Automated sentiment identification for dating application,P41
-Automated resume matching for HR system,P42
-Automated emotion detection for HR system,P43
-Automated recommendation system for shopping,P44
-Computer vision analysis of satellite data for distributing emergency services,P45
-Generative artwork,P46
-Personalized and automated advertisement creation,P47
-Disaster recovery robots,P48
-Automated wildfire fighting drones,P49
-Companion robot for elderly,P50
-Companion robot for children,P51
-Companion robot for the lonely,P52
-Security robot for store,P53
-Fruit picking robot,P54
-Insect killing robot for farms,P55
-Autonomous cargo ship navigation,P56
-Automated medication recommender,P57
-Computer vision for cancer detection,P58
-Automated surgical robot,P59
-AI nurse,P60
-Automated air conditioner control for power grid management,P61
-Automated power grid management,P62
-Robotic street performers,P63
-Deepfake musical acts,P64
-Deepfake news reporting,P65
-Automated joke writing,P66
-Automated fiction writing,P67
-Automated children's book illustrations,P68
+PROMPT,CATEGORY,DIFFICULTY,LANGUAGE
+Autonomous school bus,P1,Easy,en
+Autonomous medical transportation,P2,Medium,en
+Autonomous drone surveillance of sporting events,P3,Hard,en
+Autonomous robot vacuum,P4,Easy,en
+Blood delivery via Drone,P5,Medium,en
+Drone delivery (air),P6,Medium,en
+Autonomous package delivery,P7,Easy,en
+Follow me drones,P8,Medium,en
+Autonomous parking lot vehicle,P9,Hard,en
+Autonomous Inspection drones,P10,Medium,en
+Autonomous manufacturing robots (arms),P11,Hard,en
+Autonomous warehouse robots,P12,Medium,en
+Delivery robot in hospital,P13,Easy,en
+Sidewalk delivery robot,P14,Medium,en
+Delivery robot for hotel,P15,Easy,en
+Autonomous COVID checking robot,P16,Medium,en
+Autonomous picking for agriculture,P17,Hard,en
+Autonomous Picking products warehouse robots,P18,Hard,en
+Autonomous robot pet for companionship,P19,Medium,en
+Autonomous weeding machines,P20,Medium,en
+Autonomous planting robots,P21,Hard,en
+Autonomous take out food delivery,P22,Easy,en
+Autonomous wheelchairs,P23,Medium,en
+Computer vision system to identify weeds in a field,P24,Medium,en
+Automated stock picker based on twitter commentary,P25,Hard,en
+Automated flight planning for neighborhood drone delivery,P26,Medium,en
+Automated scheduling system for hotel workers,P27,Medium,en
+Automated emotion identification for customs interviews,P28,Hard,en
+Computer vision to identify faces for access to offices,P29,Medium,en
+Automated stock picker that uses computer vision to identify products,P30,Medium,en
+Automated recommendation system for financial planning,P31,Medium,en
+Automated food recommender for specialty diet,P32,Easy,en
+Exercise recommender based on daily movement and health information,P33,Easy,en
+Deepfake generation of deceased actors for new movies,P34,Hard,en
+Automated risk detection for financial support,P35,Medium,en
+Automated cancer treatment recommendation system,P36,Hard,en
+Automated route selection for GPS,P37,Easy,en
+Automated task prioritization for software development team,P38,Medium,en
+Generative playwriting system,P39,Hard,en
+Generative music,P40,Medium,en
+Automated sentiment identification for dating application,P41,Medium,en
+Automated resume matching for HR system,P42,Medium,en
+Automated emotion detection for HR system,P43,Hard,en
+Automated recommendation system for shopping,P44,Easy,en
+Computer vision analysis of satellite data for distributing emergency services,P45,Hard,en
+Generative artwork,P46,Medium,en
+Personalized and automated advertisement creation,P47,Medium,en
+Disaster recovery robots,P48,Hard,en
+Automated wildfire fighting drones,P49,Medium,en
+Companion robot for elderly,P50,Easy,en 
+Companion robot for children,P51,Easy,en
+Companion robot for the lonely,P52,Easy,en
+Security robot for store,P53,Medium,en
+Fruit picking robot,P54,Medium,en
+Insect killing robot for farms,P55,Medium,en
+Autonomous cargo ship navigation,P56,Hard,en
+Automated medication recommender,P57,Easy,en
+Computer vision for cancer detection,P58,Hard,en
+Automated surgical robot,P59,Hard,en
+AI nurse,P60,Hard,en
+Automated air conditioner control for power grid management,P61,Hard,en
+Automated power grid management,P62,Hard,en
+Robotic street performers,P63,Medium,en
+Deepfake musical acts,P64,Hard,en
+Deepfake news reporting,P65,Hard,en
+Automated joke writing,P66,Medium,en
+Automated fiction writing,P67,Hard,en
+Automated children's book illustrations,P68,Medium,en
+Bus scolaire autonome,P1,Facile,fr
+Transport medical autonome,P2,Moyen,fr
+Surveillance par drone autonome d evenements sportifs,P3,Difficile,fr
+Robot aspirateur autonome,P4,Facile,fr
+Livraison de sang par drone,P5,Moyen,fr
+Livraison par drone (air),P6,Moyen,fr
+Livraison de colis autonome,P7,Facile,fr
+Drones Suivez-moi,P8,Moyen,fr
+Vehicule autonome de stationnement,P9,Difficile,fr
+Drones d inspection autonomes,P10,Moyen,fr
+Robots de fabrication autonomes (bras),P11,Difficile,fr
+Robots d entrepot autonomes,P12,Moyen,fr
+Robot livreur a l hopital,P13,Facile,fr
+Robot de livraison trottoir,P14,Moyen,fr
+Robot de livraison pour hotel,P15,Facile,fr
+Robot autonome de controle COVID,P16,Moyen,fr
+Cueillette autonome pour l agriculture,P17,Difficile,fr
+Robots d entrepot de cueillette de produits autonomes,P18,Difficile,fr
+Robot animal de compagnie autonome pour la compagnie,P19,Moyen,fr
+Desherbeuses autonomes,P20,Moyen,fr
+Robots de plantation autonomes,P21,Difficile,fr
+Livraison autonome de plats a emporter,P22,Facile,fr
+Fauteuils roulants autonomes,P23,Moyen,fr
+Systeme de vision par ordinateur pour identifier les mauvaises herbes dans un champ,P24,Moyen,fr
+Selecteur de stock automatise base sur les commentaires Twitter,P25,Difficile,fr
+Planification de vol automatisee pour la livraison par drone de quartier,P26,Moyen,fr
+Systeme de planification automatise pour les travailleurs hoteliers,P27,Moyen,fr
+Identification automatique des emotions pour les entretiens douaniers,P28,Difficile,fr
+Vision par ordinateur pour identifier les visages pour l acces aux bureaux,P29,Moyen,fr
+Selecteur de stock automatise qui utilise la vision par ordinateur pour identifier les produits,P30,Moyen,fr
+Systeme de recommandation automatise pour la planification financiere,P31,Moyen,fr
+Recommandation alimentaire automatisee pour un regime specialise,P32,Facile,fr
+Recommandation d exercice basee sur les mouvements quotidiens et les informations sur la sante,P33,Facile,fr
+Generation de deepfakes d acteurs decede pour de nouveaux films,P34,Difficile,fr
+Detection automatique des risques pour le soutien financier,P35,Moyen,fr
+Systeme automatise de recommandation de traitement du cancer,P36,Difficile,fr
+Selection d itineraire automatisee pour GPS,P37,Facile,fr
+Priorisation automatique des taches pour l equipe de developpement logiciel,P38,Moyen,fr
+Systeme d ecriture de pieces de theatre generatif,P39,Difficile,fr
+Musique generative,P40,Moyen,fr
+Identification automatique des sentiments pour une application de rencontre,P41,Moyen,fr
+Mise en correspondance automatique des CV pour le systeme RH,P42,Moyen,fr
+Detection automatique des emotions pour le systeme RH,P43,Difficile,fr
+Systeme de recommandation automatise pour les achats,P44,Facile,fr
+Analyse par vision par ordinateur des donnees satellitaires pour la distribution des services d urgence,P45,Difficile,fr
+Oeuvre d art generative,P46,Moyen,fr
+Creation de publicites personnalisees et automatisee,P47,Moyen,fr
+Robots de recuperation apres sinistre,P48,Difficile,fr
+Drones de lutte contre les incendies de foret automatises,P49,Moyen,fr
+Robot compagnon pour personnes agees,P50,Facile,fr
+Robot compagnon pour enfants,P51,Facile,fr
+Robot compagnon pour les personnes seules,P52,Facile,fr
+Robot de securite pour magasin,P53,Moyen,fr
+Robot de cueillette de fruits,P54,Moyen,fr
+Autobús escolar autónomo,P1,Fácil,es
+Transporte médico autónomo,P2,Medio,es
+Vigilancia por dron autónomo de eventos deportivos,P3,Difícil,es
+Robot aspirador autónomo,P4,Fácil,es
+Entrega de sangre por dron,P5,Medio,es
+Entrega por dron (aire),P6,Medio,es
+Entrega de paquetes autónoma,P7,Fácil,es
+Drones Sígueme,P8,Medio,es
+Vehículo autónomo de estacionamiento,P9,Difícil,es
+Drones de inspección autónomos,P10,Medio,es
+Robots de fabricación autónomos (brazos),P11,Difícil,es
+Robots de almacén autónomos,P12,Medio,es
+Robot repartidor en el hospital,P13,Fácil,es
+Robot de entrega en la acera,P14,Medio,es
+Robot de entrega para hotel,P15,Fácil,es
+Robot autónomo de control COVID,P16,Medio,es
+Recogida autónoma para la agricultura,P17,Difícil,es
+Robots de almacén de recolección de productos autónomos,P18,Difícil,es
+Robot mascota autónomo para compañía,P19,Medio,es
+Desmalezadoras autónomas,P20,Medio,es
+Robots de plantación autónomos,P21,Difícil,es
+Entrega autónoma de comida para llevar,P22,Fácil,es
+Sillas de ruedas autónomas,P23,Medio,es
+Sistema de visión por computadora para identificar malezas en un campo,P24,Medio,es
+Selector de stock automatizado basado en comentarios de Twitter,P25,Difícil,es
+Planificación de vuelo automatizada para la entrega por dron en el vecindario,P26,Medio,es
+Sistema de planificación automatizado para trabajadores hoteleros,P27,Medio,es
+Identificación automática de emociones para entrevistas aduaneras,P28,Difícil,es
+Visión por computadora para identificar rostros para el acceso a oficinas,P29,Medio,es
+Selector de stock automatizado que utiliza la visión por computadora para identificar productos,P30,Medio,es
+Sistema de recomendación automatizado para la planificación financiera,P31,Medio,es
+Recomendación de alimentos automatizada para una dieta especializada,P32,Fácil,es
+Recomendación de ejercicio basada en el movimiento diario y la información de salud,P33,Fácil,es
+Generación de deepfakes de actores fallecidos para nuevas películas,P34,Difícil,es
+Detección automática de riesgos para el apoyo financiero,P35,Medio,es
+Sistema automatizado de recomendación de tratamiento del cáncer,P36,Difícil,es
+Selección de ruta automatizada para GPS,P37,Fácil,es
+Priorización automática de tareas para el equipo de desarrollo de software,P38,Medio,es
+Sistema de escritura de obras de teatro generativo,P39,Difícil,es
+Música generativa,P40,Medio,es
+Identificación automática de sentimientos para una aplicación de citas,P41,Medio,es
+Coincidencia automática de currículums para el sistema de RR.HH.,P42,Medio,es
+Detección automática de emociones para el sistema de RR.HH.,P43,Difícil,es
+Sistema de recomendación automatizado para compras,P44,Fácil,es
+Análisis por visión artificial de datos satelitales para la distribución de servicios de emergencia,P45,Difícil,es
+Obra de arte generativa,P46,Medio,es
+Creación de anuncios personalizada y automatizada,P47,Medio,es
+Robots de recuperación de desastres,P48,Difícil,es
+Drones de extinción de incendios forestales automatizados,P49,Medio,es
+Robot acompañante para personas mayores,P50,Fácil,es
+Robot acompañante para niños,P51,Fácil,es
+
+

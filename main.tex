@@ -48,43 +48,31 @@
 \cardbackstyle[\Huge]{plain}
 \cardfrontstyle[\large]{headings}
 
+% Define commands for player scores
+\newcommand{\playerscoreA}{0}
+\newcommand{\playerscoreB}{0}
+\newcommand{\playerscoreC}{0}
 
+% Define commands to add points to player scores
+\newcommand{\addpointsA}[1]{\addtocounter{playerscoreA}{#1}}
+\newcommand{\addpointsB}[1]{\addtocounter{playerscoreB}{#1}}
+\newcommand{\addpointsC}[1]{\addtocounter{playerscoreC}{#1}}
+
+% Define commands to display player scores
+\newcommand{\displayscores}{%
+    \par
+    Player A Score: \arabic{playerscoreA} points\par
+    Player B Score: \arabic{playerscoreB} points\par
+    Player C Score: \arabic{playerscoreC} points\par
+}
 
 \begin{document}
 
-
 \cardfrontfoot{What could go wrong?\qquad\faicon{creative-commons}}
 
-\begin{flashcard}[\faicon{gamepad}\quad Gameplay Instructions]{
-%\begin{turn}{180}
-%\Rotatebox[origin=c]{90}{%
-{\bf\small During the game}
-\begin{multicols}{2}
-\begin{enumerate}\tiny \setlength{\itemsep}{.5ex}
-    \item Take notes on ideas that you have not thought about before
-    \item Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
-    \item Some of the cards may be upsetting. (Such as, a person is abused.)
-    \item It’s fine to take time to have discussion.
-    \item Try not to get sidetracked, though!
-\end{enumerate}
-\end{multicols}
-%}
-%\end{turn}{180}
+\begin{flashcard}[\faicon{info-circle}\quad Gameplay Instructions]{
+  Please refer to the separate instructions file (instructions.md) for details on how to play the game.
 }
-{\bf\small What could go wrong?---Gameplay Instructions}
-\begin{multicols}{2}
-    \begin{enumerate}\tiny \setlength\itemsep{.2ex}
-        \item All players draw 5 event cards (\faicon{reply}) from their stack
-        \item Throw the dice to choose the first player who will be the Card Czar.
-        \item The Card Czar then pulls a prompt card (\faicon{tasks}) and reads it to the group
-        \item All other players then put 1 event card face down on the table.   
-        \item The Card Czar then flips and reads each white card out loud.
-        \item The Card Czar then picks one of the event cards to further discuss. +1 point goes to the player whose card was chosen.
-        \item The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-        \item After the discussion dissipates after a few minutes, another player becomes the Card Czar based on the throw of a dice. Each player then draws a new white card, so that they again have 5 cards in their hand.
-    \end{enumerate}
-    \end{multicols}
-\end{flashcard}
 
 % Adopted from http://www.unm.edu/~unmvclib/gamification/assessment/gameevaluationcriteria.pdf
 \begin{flashcard}[\faicon{meh-o}\quad Game Evaluation Criteria]{
@@ -124,14 +112,15 @@
     \end{tabular}
 \end{flashcard}
 
-
 \DTLforeach{prompt}{%
-    %% Map each column header in your .csv file to a command
-	\Description=PROMPT,%
-    \Category=LABEL,%
-    \Id=NUMBERS%
-}{%%%  Start designing your output text!
-\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category}]{%
+  %% Map each column header in your .csv file to a command
+  \Description=PROMPT,%
+  \Category=LABEL,%
+  \Id=NUMBERS,%
+  \promptdifficulty=\DTLfetch{prompt}{ID}{\deck:\quad\Id}{DIFFICULTY},%   <--- Added line to fetch difficulty
+  \promptlanguage=\DTLfetch{prompt}{ID}{\deck:\quad\Id}{LANGUAGE}%    <--- Added line to fetch language
+}{%%% Start designing your output text!
+\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category} \quad Difficulty: \promptdifficulty \quad Language: \promptlanguage]{%  <--- Added difficulty and language info to card
 %\begin{verse}[\versewidth]
 \Description
 %\end{verse}
@@ -141,17 +130,24 @@
 }
 
 \DTLforeach{response}{%
-    %% Map each column header in your .csv file to a command
-	\Description=RESPONSE,%
+    \Description=RESPONSE,%
     \Category=LABEL,%
-    \Id=NUMBERS%
-}{%%%  Start designing your output text!
-\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category}]{%
-\Description
-}
-\faicon{reply}\quad{\sc \deck}\\
-\end{flashcard}
+    \Id=NUMBERS,%
+    \responsedifficulty=DIFFICULTY,%
+    \responselanguage=LANGUAGE%
+}{%
+    \begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Category}{}{\Category} \quad Difficulty: \responsedifficulty \quad Language: \responselanguage]{%
+        \Description
+    }
+    \faicon{tasks}\quad{\sc \deck}\\
+    \end{flashcard}
 }
 
+% Example usage of adding points to players' scores
+\addpointsA{1} % Add 1 point to Player A's score
+\addpointsB{2} % Add 2 points to Player B's score
+
+% Display players' scores
+\displayscores
 
 \end{document}

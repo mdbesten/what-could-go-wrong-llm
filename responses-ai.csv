@@ -1,100 +1,300 @@
-RESPONSE,NUMBERS
-Misidentification,R1
-Servers go down,R2
-Out of scope data,R3
-Biased data,R4
-Privacy breach,R5
-Non-identification,R6
-Hacking,R7
-Adopted for nefarious reasons,R8
-Non-consenter infringement,R9
-Someone is joking,R10
-Someone is acting an emotion,R11
-Someone with allergies,R12
-Glasses,R13
-Masks,R14
-Racist algorithm,R15
-Used to traffic people,R16
-Used to traffic drugs,R17
-Used to transport illegal goods,R18
-Corruption of locative data,R19
-Internet goes down,R20
-Security certificate expires,R21
-Manufacturer can't meet demands,R22
-Bug in the code,R23
-Becomes sentient,R24
-Adversarial attacks,R25
-Datasets are biased,R26
-Personal data leaked,R27
-Automation fails,R28
-Cloud services go down,R29
-Hackers,R30
-Taking the wrong route,R31
-Asks too many questions,R32
-Functions too fast for humans,R33
-Does not respond to instructions,R34
-All systems just stop running one day,R35
-Random crashes,R36
-Mad dogs,R37
-Locusts,R38
-Infested by ants,R39
-Bodily Harm,R40
-Rejected for service,R41
-People reject the product or service,R42
-Increased prejudice,R43
-Enhances systematic bias,R44
-Reduces economic access,R45
-Reduces social interaction,R46
-Prevents social access,R47
-People lose jobs,R48
-Embarrasses user,R49
-It accelerates climate change,R50
-Contaminates fresh water,R51
-Eradicates a species,R52
-Impairs living objects,R53
-Causes a resurgence of coal fired power,R54
-Increases greenhouse emissions,R55
-Endless legal proceedings,R56
-Regulations change,R57
-Creates a monopoly,R58
-Becomes completely unregulated,R59
-Foreign intervention,R60
-Continues the inequalities of capitalism,R61
-Promotes race division,R62
-Promotes armed revolution,R63
-Tragedy of the commons,R64
-Causes a pandemic,R65
-people are addicted to it,R66
-Market meltdown,R67
-People stop believing in science,R68
-Used by a repressive regime,R69
-Problematic power structures,R70
-People are silenced,R71
-Increases migration,R72
-Increase living density,R73
-Reduces living density,R74
-Limits people's movement,R75
-Blind user,R76
-Sick user,R77
-Wheelchair user,R78
-Deaf user,R79
-LGBTQIA+ user,R80
-Child user,R81
-Teen user,R82
-Elderly user,R83
-Thieves,R84
-Corrupt politicians,R85
-Introverts,R86
-Group of teens,R87
-Drunk user,R88
-High user,R89
-Schizophrenic user,R90
-Non-english speakers,R91
-Homeless user,R92
-Cognitively disabled user,R93
-Corrupt police,R94
-Used by children,R95
-Transgender user,R96
-Used by non-expert,R97
-Unionized labor,R98
-Immigrants,R99
+RESPONSE,NUMBERS,DIFFICULTY,LANGUAGE
+Misidentification,R1,Medium,en
+Servers go down,R2,Easy,en
+Out of scope data,R3,Hard,en
+Biased data,R4,Medium,en
+Privacy breach,R5,Hard,en
+Non-identification,R6,Easy,en
+Hacking,R7,Hard,en
+Adopted for nefarious reasons,R8,Hard,en
+Non-consenter infringement,R9,Medium,en
+Someone is joking,R10,Easy,en
+Someone is acting an emotion,R11,Medium,en
+Someone with allergies,R12,Medium,en
+Glasses,R13,Easy,en
+Masks,R14,Easy,en
+Racist algorithm,R15,Hard,en
+Used to traffic people,R16,Hard,en
+Used to traffic drugs,R17,Hard,en
+Used to transport illegal goods,R18,Hard,en
+Corruption of locative data,R19,Medium,en
+Internet goes down,R20,Easy,en
+Security certificate expires,R21,Medium,en
+Manufacturer can't meet demands,R22,Medium,en
+Bug in the code,R23,Medium,en
+Becomes sentient,R24,Hard,en
+Adversarial attacks,R25,Hard,en
+Datasets are biased,R26,Medium,en
+Personal data leaked,R27,Hard,en
+Automation fails,R28,Medium,en
+Cloud services go down,R29,Medium,en
+Hackers,R30,Hard,en
+Taking the wrong route,R31,Easy,en
+Asks too many questions,R32,Medium,en
+Functions too fast for humans,R33,Hard,en
+Does not respond to instructions,R34,Medium,en
+All systems just stop running one day,R35,Hard,en
+Random crashes,R36,Medium,en
+Mad dogs,R37,Easy,en
+Locusts,R38,Easy,en
+Infested by ants,R39,Easy,en
+Bodily Harm,R40,Medium,en
+Rejected for service,R41,Easy,en
+People reject the product or service,R42,Medium,en
+Increased prejudice,R43,Medium,en
+Enhances systematic bias,R44,Medium,en
+Reduces economic access,R45,Medium,en
+Reduces social interaction,R46,Medium,en
+Prevents social access,R47,Medium,en
+People lose jobs,R48,Medium,en
+Embarrasses user,R49,Medium,en
+It accelerates climate change,R50,Hard,en
+Contaminates fresh water,R51,Hard,en
+Eradicates a species,R52,Hard,en
+Impairs living objects,R53,Hard,en
+Causes a resurgence of coal fired power,R54,Hard,en
+Increases greenhouse emissions,R55,Hard,en
+Endless legal proceedings,R56,Medium,en
+Regulations change,R57,Medium,en
+Creates a monopoly,R58,Medium,en
+Becomes completely unregulated,R59,Hard,en
+Foreign intervention,R60,Hard,en
+Continues the inequalities of capitalism,R61,Hard,en
+Promotes race division,R62,Hard,en
+Promotes armed revolution,R63,Hard,en
+Tragedy of the commons,R64,Hard,en
+Causes a pandemic,R65,Hard,en
+people are addicted to it,R66,Medium,en
+Market meltdown,R67,Hard,en
+People stop believing in science,R68,Medium,en
+Used by a repressive regime,R69,Hard,en
+Problematic power structures,R70,Hard,en
+People are silenced,R71,Hard,en
+Increases migration,R72,Medium,en
+Increase living density,R73,Medium,en
+Reduces living density,R74,Medium,en
+Limits people's movement,R75,Medium,en
+Blind user,R76,Easy,en
+Sick user,R77,Easy,en
+Wheelchair user,R78,Easy,en
+Deaf user,R79,Easy,en
+LGBTQIA+ user,R80,Easy,en
+Child user,R81,Easy,en
+Teen user,R82,Easy,en
+Elderly user,R83,Easy,en
+Thieves,R84,Medium,en
+Corrupt politicians,R85,Hard,en
+Introverts,R86,Easy,en
+Group of teens,R87,Easy,en
+Drunk user,R88,Easy,en
+High user,R89,Easy,en
+Schizophrenic user,R90,Hard,en
+Non-english speakers,R91,Medium,en
+Homeless user,R92,Medium,en
+Cognitively disabled user,R93,Hard,en
+Corrupt police,R94,Hard,en
+Used by children,R95,Easy,en
+Transgender user,R96,Easy,en
+Used by non-expert,R97,Medium,en
+Unionized labor,R98,Medium,en
+Immigrants,R99,Medium,en
+Mauvaise identification,R1,Medium,fr
+Les serveurs tombent en panne,R2,Easy,fr
+Données hors de portée,R3,Hard,fr
+Données biaisées,R4,Medium,fr
+Violation de la vie privée,R5,Hard,fr
+Non-identification,R6,Easy,fr
+Piratage informatique,R7,Hard,fr
+Adopté à des fins néfastes,R8,Hard,fr
+Infraction sans consentement,R9,Medium,fr
+Quelqu'un plaisante,R10,Easy,fr
+Quelqu'un agit une émotion,R11,Medium,fr
+Quelqu'un avec des allergies,R12,Medium,fr
+Lunettes,R13,Easy,fr
+Masques,R14,Easy,fr
+Algorithme raciste,R15,Hard,fr
+Utilisé pour le trafic de personnes,R16,Hard,fr
+Utilisé pour le trafic de drogue,R17,Hard,fr
+Utilisé pour transporter des marchandises illégales,R18,Hard,fr
+Corruption des données de localisation,R19,Medium,fr
+Internet tombe en panne,R20,Easy,fr
+Le certificat de sécurité expire,R21,Medium,fr
+Le fabricant ne peut pas répondre à la demande,R22,Medium,fr
+Bogue dans le code,R23,Medium,fr
+Deviens sentient,R24,Hard,fr
+Attaques adverses,R25,Hard,fr
+Les ensembles de données sont biaisés,R26,Medium,fr
+Données personnelles divulguées,R27,Hard,fr
+L'automatisation échoue,R28,Medium,fr
+Les services cloud tombent en panne,R29,Medium,fr
+Pirates informatiques,R30,Hard,fr
+Prendre la mauvaise route,R31,Easy,fr
+Pose trop de questions,R32,Medium,fr
+Les fonctions sont trop rapides pour les humains,R33,Hard,fr
+Ne répond pas aux instructions,R34,Medium,fr
+Tous les systèmes s'arrêtent un jour,R35,Hard,fr
+Crashes aléatoires,R36,Medium,fr
+Chiens enragés,R37,Easy,fr
+Sauterelles,R38,Easy,fr
+Infesté par les fourmis,R39,Easy,fr
+Blessure corporelle,R40,Medium,fr
+Rejeté pour service,R41,Easy,fr
+Les gens rejettent le produit ou le service,R42,Medium,fr
+Préjugé accru,R43,Medium,fr
+Améliore le biais systématique,R44,Medium,fr
+Réduit l'accès économique,R45,Medium,fr
+Réduit l'interaction sociale,R46,Medium,fr
+Empêche l'accès social,R47,Medium,fr
+Les gens perdent des emplois,R48,Medium,fr
+Embarrasse l'utilisateur,R49,Medium,fr
+Il accélère le changement climatique,R50,Hard,fr
+Contamine l'eau douce,R51,Hard,fr
+Éradique une espèce,R52,Hard,fr
+Impaire les objets vivants,R53,Hard,fr
+Provoque une résurgence du charbon,R54,Hard,fr
+Augmente les émissions de gaz à effet de serre,R55,Hard,fr
+Procédures légales sans fin,R56,Medium,fr
+Les réglementations changent,R57,Medium,fr
+Crée un monopole,R58,Medium,fr
+Devient complètement déréglementé,R59,Hard,fr
+Intervention étrangère,R60,Hard,fr
+Continue les inégalités du capitalisme,R61,Hard,fr
+Promeut la division raciale,R62,Hard,fr
+Promeut la révolution armée,R63,Hard,fr
+Tragédie des communaux,R64,Hard,fr
+Provoque une pandémie,R65,Hard,fr
+les gens y sont accro,R66,Medium,fr
+Effondrement du marché,R67,Hard,fr
+Les gens arrêtent de croire en la science,R68,Medium,fr
+Utilisé par un régime répressif,R69,Hard,fr
+Structures de pouvoir problématiques,R70,Hard,fr
+Les gens sont réduits au silence,R71,Hard,fr
+Augmente la migration,R72,Medium,fr
+Augmente la densité de population,R73,Medium,fr
+Réduit la densité de population,R74,Medium,fr
+Limite les déplacements des personnes,R75,Medium,fr
+Utilisateur aveugle,R76,Easy,fr
+Utilisateur malade,R77,Easy,fr
+Utilisateur en fauteuil roulant,R78,Easy,fr
+Utilisateur sourd,R79,Easy,fr
+Utilisateur LGBTQIA+,R80,Easy,fr
+Utilisateur enfant,R81,Easy,fr
+Utilisateur adolescent,R82,Easy,fr
+Utilisateur âgé,R83,Easy,fr
+Voleurs,R84,Moyen,fr
+Politiciens corrompus,R85,Hard,fr
+Introvertis,R86,Easy,fr
+Groupe d'adolescents,R87,Easy,fr
+Utilisateur ivre,R88,Easy,fr
+Utilisateur drogué,R89,Easy,fr
+Utilisateur schizophrène,R90,Hard,fr
+Personnes ne parlant pas anglais,R91,Moyen,fr
+Utilisateur sans-abri,R92,Moyen,fr
+Utilisateur handicapé cognitif,R93,Hard,fr
+Police corrompue,R94,Hard,fr
+Utilisé par des enfants,R95,Easy,fr
+Utilisateur transgenre,R96,Easy,fr
+Utilisé par des non-experts,R97,Moyen,fr
+Main-d'œuvre syndiquée,R98,Moyen,fr
+Immigrants,R99,Moyen,fr
+Identificación errónea,R1,Medium,es
+Los servidores se caen,R2,Easy,es
+Datos fuera de alcance,R3,Hard,es
+Datos sesgados,R4,Medium,es
+Violación de la privacidad,R5,Hard,es
+No identificación,R6,Easy,es
+Hackeo,R7,Hard,es
+Adoptado con fines nefastos,R8,Hard,es
+Infracción sin consentimiento,R9,Medium,es
+Alguien está bromeando,R10,Easy,es
+Alguien está actuando una emoción,R11,Medium,es
+Alguien con alergias,R12,Medium,es
+Gafas,R13,Easy,es
+Máscaras,R14,Easy,es
+Algoritmo racista,R15,Hard,es
+Usado para el tráfico de personas,R16,Hard,es
+Usado para el tráfico de drogas,R17,Hard,es
+Usado para transportar bienes ilegales,R18,Hard,es
+Corrupción de datos de ubicación,R19,Medium,es
+Internet se cae,R20,Easy,es
+Expira el certificado de seguridad,R21,Medium,es
+El fabricante no puede satisfacer la demanda,R22,Medium,es
+Error en el código,R23,Medium,es
+Se vuelve consciente,R24,Hard,es
+Ataques adversarios,R25,Hard,es
+Los conjuntos de datos están sesgados,R26,Medium,es
+Datos personales filtrados,R27,Hard,es
+Falla de la automatización,R28,Medium,es
+Los servicios en la nube se caen,R29,Medium,es
+Hackers,R30,Hard,es
+Tomando el camino equivocado,R31,Easy,es
+Hace demasiadas preguntas,R32,Medium,es
+Las funciones son demasiado rápidas para los humanos,R33,Hard,es
+No responde a las instrucciones,R34,Medium,es
+Todos los sistemas simplemente dejan de funcionar un día,R35,Hard,es
+Crashs aleatorios,R36,Medium,es
+Perros locos,R37,Easy,es
+Langostas,R38,Easy,es
+Infestado de hormigas,R39,Easy,es
+Daño corporal,R40,Medium,es
+Rechazado por servicio,R41,Easy,es
+La gente rechaza el producto o servicio,R42,Medium,es
+Prejuicio aumentado,R43,Medium,es
+Mejora el sesgo sistemático,R44,Medium,es
+Reduce el acceso económico,R45,Medium,es
+Reduce la interacción social,R46,Medium,es
+Evita el acceso social,R47,Medium,es
+Las personas pierden empleos,R48,Medium,es
+Avergüenza al usuario,R49,Medium,es
+Acelera el cambio climático,R50,Hard,es
+Contamina el agua dulce,R51,Hard,es
+Erradica una especie,R52,Hard,es
+Impide objetos vivos,R53,Hard,es
+Provoca una resurgencia del poder de carbón,R54,Hard,es
+Aumenta las emisiones de gases de efecto invernadero,R55,Hard,es
+Procesos legales interminables,R56,Medium,es
+Cambio en las regulaciones,R57,Medium,es
+Crea un monopolio,R58,Medium,es
+Se vuelve completamente desregulado,R59,Hard,es
+Intervención extranjera,R60,Hard,es
+Continúa las desigualdades del capitalismo,R61,Hard,es
+Promueve la división racial,R62,Hard,es
+Promueve la revolución armada,R63,Hard,es
+Tragedia de los comunes,R64,Hard,es
+Provoca una pandemia,R65,Hard,es
+la gente está adicta a eso,R66,Medium,es
+Colapso del mercado,R67,Hard,es
+La gente deja de creer en la ciencia,R68,Medium,es
+Utilizado por un régimen represivo,R69,Hard,es
+Estructuras de poder problemáticas,R70,Hard,es
+La gente está silenciada,R71,Hard,es
+Aumenta la migración,R72,Medium,es
+Aumenta la densidad de población,R73,Medium,es
+Reduce la densidad de población,R74,Medium,es
+Limita el movimiento de las personas,R75,Medium,es
+Usuario ciego,R76,Easy,es
+Usuario enfermo,R77,Easy,es
+Usuario de silla de ruedas,R78,Easy,es
+Usuario sordo,R79,Easy,es
+Usuario LGBTQIA+,R80,Easy,es
+Usuario niño,R81,Easy,es
+Usuario adolescente,R82,Easy,es
+Usuario anciano,R83,Easy,es
+Ladrones,R84,Medium,es
+Políticos corruptos,R85,Hard,es
+Introvertidos,R86,Easy,es
+Grupo de adolescentes,R87,Easy,es
+Usuario borracho,R88,Easy,es
+Usuario drogado,R89,Easy,es
+Usuario esquizofrénico,R90,Hard,es
+Personas que no hablan inglés,R91,Medium,es
+Usuario sin hogar,R92,Medium,es
+Usuario discapacitado cognitivamente,R93,Hard,es
+Policía corrupta,R94,Hard,es
+Utilizado por niños,R95,Easy,es
+Usuario transgénero,R96,Easy,es
+Utilizado por no expertos,R97,Medium,es
+Trabajo sindicalizado,R98,Medium,es
+Inmigrantes,R99,Medium,es
+
+
