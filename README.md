@@ -60,7 +60,7 @@ Players can also use the Collaborative Card Crafting feature during the gameplay
 
 ### Community Contributions
 We could create a discord channel or a reddit community, where players can submit their game expansions or modifications, which will be reviewed by the community and possibly included in the official game. This could enhancethe OCPP relevance of "What Could Go Wrong."
-To further bolster community engagement, the new communication feature provides a forum in the commmunity for discussion and brainstorming, allowing for richer collaboration on submitted expansions or modifications
+To further bolster community engagement, the new communication feature encourages more discussion and brainstorming, allowing for richer collaboration on submitted expansions or modifications
 
 ## Suggested Citation
 Nikolas Martelaro and Wendy Ju. 2020. What Could Go Wrong? Exploring the Downsides of Autonomous Vehicles. In *12th International Conference on Automotive User Interfaces and Interactive Vehicular Applications* (*AutomotiveUI '20*). Association for Computing Machinery, New York, NY, USA, 99–101. DOI:https://doi.org/10.1145/3409251.3411734
