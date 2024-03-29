@@ -13,6 +13,10 @@ Floridi, L. et al. (2021) ‘An Ethical Framework for a Good AI Society: Opportu
 
 Kaddour, J. et al. (2023) ‘Challenges and Applications of Large Language Models’. arXiv. Available at: https://doi.org/10.48550/arXiv.2307.10169.
 
+Patrick S. Cohendet and Laurent O. Simon (2016) 'Always Playable: Recombining Routines for Creative Efficiency at Ubisoft Montreal'sVideo Game Studio'. Available at https://www.jstor.org/stable/24763631. According to the article, "fun" is the central element of value, and the main reason why gamers play. Generally recognized as difficult to define, the central element of enjoyment in games refers to "flow": the experience of a balance between autonomy and heteronomy (Csíkszentmihályi 1975). Game developers generally rely on their own cumulative experience of play to assess a game's "play value". With this in mind, according to the article, to be true to the "follow the fun" principle, the Ubisoft team decided to spend more time sharing and testing their work. "You can't really assess the play value of a feature and its contribution to the overall gameplay by talking about it or drawing it. The point is, if it's worth something, you have to try it out: you have to play." We'd need to play it more to see how the "flow" could be improved. However, by recalling several times the way a game is organized, perhaps more players should be involved in making choices, so that they are more active and this improves the "fun" and "rhythm" of the game. 
+
+
+
 
 ## Abstract
 While autonomous vehicles have the potential to greatly improve our daily lives, there are also challenges and potential downsides to these systems. In this workshop, we intend to foster discussions about the potential negative aspects of autonomous cars in hopes of surfacing challenges that should be considered during the design process rather than after deployment. We will spur these conversations through a review of participant position statements and through group discussion facilitated by a card game called “What Could Go Wrong?” Our goal is to consider the autonomous vehicle’s benefits—improving safety, increasing mobility, reducing emissions—against potential drawbacks. By identifying potential harms and downsides, the workshop attendees, and the AutoUI community more broadly can design well-considered solutions.
@@ -29,14 +33,14 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 
 ## Gameplay Instructions
 1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
+2. Click the spinner to choose two players who will be the Card Czar, one will be the White Card Czar (he/she will act in the most ethical way possible) the other will be the Black Czar (he/she will act the opposite way). All other players don't know who is the Black or White Czar. 
+3. The two Card Czar then pull a black prompt card and reads each card to the group. 
+4. All other players then put 1 white response card face down in their slot for each question. Each players is trying to answer "ethically" for the White Czar and "unethically" for the Black Czar.
 5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-6.1 If the Card Czar really likes a card. He can give 2 points isntead of only 1. He can use this to make draws and make the game for comptetitive.
-8. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-9. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen + 1 point goes to each player that guessed who was the White Czar and who was the Black Czar
+7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
+8. After the discussion dissipates after a few minutes, the next player becomes the White Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+
 
 To make gameplay even more engaging and fun, we've introduced new features and enhancements. Here's what's new:
 
@@ -55,11 +59,12 @@ To make gameplay even more engaging and fun, we've introduced new features and e
 In addition to the standard draw and play mechanics, players are encouraged to engage with the new card types and the enhanced points system. Keep discussions lively and on-topic, but feel free to explore where the conversation leads, especially with the new, real-world AI scenarios. 
 
 ### During the game
-1. Take notes on ideas that you have not thought about before
-2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
-3. Some of the cards may be upsetting. (Such as, a person is abused.)
-4. It’s fine to take time to have discussion.
-5. Try not to get side tracked, though!
+1. Count the points 
+2. Take notes on ideas that you have not thought about before
+3. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
+4. Some of the cards may be upsetting. (Such as, a person is abused.)
+5. It’s fine to take time to have discussion.
+6. Try not to get side tracked, though!
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
