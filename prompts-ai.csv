@@ -1,79 +1,81 @@
-PROMPT,NUMBERS
-Autonomous school bus,P1
-Autonomous medical transportation,P2
-Autonomous drone surveillance of sporting events,P3
-Autonomous robot vacuum,P4
-Blood delivery via Drone,P5
-Drone deliver (air),P6
-Autonomous package delivery,P7
-Follow me drones,P8
-Autonomous parking lot vehicle,P9
-Autonomous Inspection drones,P10
-Autonomous manufacturing robots (arms),P11
-Autonomous warehouse robots,P12
-Delivery robot in hospital,P13
-Sidewalk delivery robot,P14
-Delivery robot for hotel,P15
-Autonomous COVID checking robot,P16
-Autonomous picking for agriculture,P17
-Autonomous Picking products warehouse robots,P18
-Autonomous robot pet for companionship,P19
-Autonomous weeding machines,P20
-Autonomous planting robots,P21
-Autonomous take out food delivery,P22
-Autonomous wheelchairs,P23
-Computer vision system to identify weeds in a field,P24
-Automated stock picker based on twitter commentary,P25
-Automated flight planning for neighborhood drone delivery,P26
-Automated scheduling system for hotel workers,P27
-Automated emotion identification for customs interviews,P28
-Computer vision to identify faces for access to offices,P29
-Automated stock picker that uses computer vision to identify products,P30
-Automated recommendation system for financial planning,P31
-Automated food recommender for specialty diet,P32
-Exercise recommender based on daily movement and health information,P33
-Deepfake generation of deceased actors for new movies,P34
-Automated risk detection for financial support,P35
-Automated cancer treatment recommendation system,P36
-Automated route selection for GPS,P37
-Automated task prioritization for software development team,P38
-Generative playwriting system,P39
-Generative music,P40
-Automated sentiment identification for dating application,P41
-Automated resume matching for HR system,P42
-Automated emotion detection for HR system,P43
-Automated recommendation system for shopping,P44
-Computer vision analysis of satellite data for distributing emergency services,P45
-Generative artwork,P46
-Personalized and automated advertisement creation,P47
-Disaster recovery robots,P48
-Automated wildfire fighting drones,P49
-Companion robot for elderly,P50
-Companion robot for children,P51
-Companion robot for the lonely,P52
-Security robot for store,P53
-Fruit picking robot,P54
-Insect killing robot for farms,P55
-Autonomous cargo ship navigation,P56
-Automated medication recommender,P57
-Computer vision for cancer detection,P58
-Automated surgical robot,P59
-AI nurse,P60
-Automated air conditioner control for power grid management,P61
-Automated power grid management,P62
-Robotic street performers,P63
-Deepfake musical acts,P64
-Deepfake news reporting,P65
-Automated joke writing,P66
-Automated fiction writing,P67
-Automated children's book illustrations,P68
-Smart homes with AI, P69
-Intelligent personal assistants, P70
-AI psychologist, P71
-AI teachers, P72
-AI news reporting, P73
-AI politicians, P74
-AI lawyers, P75
-Completely automated farms, P76
-Autonomous war drones, P77
-Automated powergrid management, P78
+PROMPT;NUMBERS
+Autonomous school bus;P1
+Autonomous medical transportation;P2
+Autonomous drone surveillance of sporting events;P3
+Autonomous robot vacuum;P4
+Blood delivery via Drone;P5
+Drone deliver (air);P6
+Autonomous package delivery;P7
+Follow me drones;P8
+Autonomous parking lot vehicle;P9
+Autonomous Inspection drones;P10
+Autonomous manufacturing robots (arms);P11
+Autonomous warehouse robots;P12
+Delivery robot in hospital;P13
+Sidewalk delivery robot;P14
+Delivery robot for hotel;P15
+Autonomous COVID checking robot;P16
+Autonomous picking for agriculture;P17
+Autonomous Picking products warehouse robots;P18
+Autonomous robot pet for companionship;P19
+Autonomous weeding machines;P20
+Autonomous planting robots;P21
+Autonomous take out food delivery;P22
+Autonomous wheelchairs;P23
+Computer vision system to identify weeds in a field;P24
+Automated stock picker based on twitter commentary;P25
+Automated flight planning for neighborhood drone delivery;P26
+Automated scheduling system for hotel workers;P27
+Automated emotion identification for customs interviews;P28
+Computer vision to identify faces for access to offices;P29
+Automated stock picker that uses computer vision to identify products;P30
+Automated recommendation system for financial planning;P31
+Automated food recommender for specialty diet;P32
+Exercise recommender based on daily movement and health information;P33
+Deepfake generation of deceased actors for new movies;P34
+Automated risk detection for financial support;P35
+Automated cancer treatment recommendation system;P36
+Automated route selection for GPS;P37
+Automated task prioritization for software development team;P38
+Generative playwriting system;P39
+Generative music;P40
+Automated sentiment identification for dating application;P41
+Automated resume matching for HR system;P42
+Automated emotion detection for HR system;P43
+Automated recommendation system for shopping;P44
+Computer vision analysis of satellite data for distributing emergency services;P45
+Generative artwork;P46
+Personalized and automated advertisement creation;P47
+Disaster recovery robots;P48
+Automated wildfire fighting drones;P49
+Companion robot for elderly;P50
+Companion robot for children;P51
+Companion robot for the lonely;P52
+Security robot for store;P53
+Fruit picking robot;P54
+Insect killing robot for farms;P55
+Autonomous cargo ship navigation;P56
+Automated medication recommender;P57
+Computer vision for cancer detection;P58
+Automated surgical robot;P59
+AI nurse;P60
+Automated air conditioner control for power grid management;P61
+Automated power grid management;P62
+Robotic street performers;P63
+Deepfake musical acts;P64
+Deepfake news reporting;P65
+Automated joke writing;P66
+Automated fiction writing;P67
+Automated children's book illustrations;P68
+Smart homes with AI;P69
+Intelligent personal assistants;P70
+AI psychologist;P71
+AI teachers;P72
+AI news reporting;P73
+AI politicians;P74
+AI lawyers;P75
+Completely automated farms;P76
+Autonomous war drones;P77
+Automated powergrid management;P78
+AI cancer detector;P79
+AI disease prediction;P80
