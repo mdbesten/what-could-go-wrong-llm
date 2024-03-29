@@ -28,21 +28,25 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
 ## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+This game is designed to use cards to spark discussion and explore issues that may arise in different scenarios. To help you play the game smoothly, we provide detailed step-by-step instructions for the game.
 
-### During the game
-1. Take notes on ideas that you have not thought about before
-2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
-3. Some of the cards may be upsetting. (Such as, a person is abused.)
-4. It’s fine to take time to have discussion.
-5. Try not to get side tracked, though!
+### Start game
+Dealing cards: At the beginning of the game, all players draw 5 white cards from their respective decks.
+Select Card Czar: Click the wheel to select the first Card Czar (Card Czar). This player will be responsible for reading the black card prompts and making choices in this round of the game.
+
+### Play games
+Card Czar operation: Card Czar draws a black card and reads it loudly to everyone.
+Other Players Respond: The other players respond by choosing a white card from their hand, placing it face down in their slot.
+Presentation and Selection: Card Czar turns over and reads each white card aloud, then selects one for further discussion. The player whose card is selected gets +1 point.
+In-depth discussion: The team then further discusses other issues that may arise based on the selected card. Anyone who comes up with a good idea during a discussion gets +1 point.
+Rotate Card Czar: After the discussion dies down, the next player becomes the Card Czar and clicks the "Deal" button. Each player draws a new white card to ensure they have 5 cards in their hand again.
+
+### Things to note during gaming
+Record inspiration: As you play, jot down thoughts and ideas that you haven't thought of before.
+Be flexible with the cards: Some cards in the game represent causes, others represent effects. Don’t be wedded to the original intentions of the game designers, but focus on the direction of the discussion.
+Handle sensitive content: Some cards may contain sensitive content (for example, abuse). It is important to maintain respect and empathy when facing these situations.
+Keep the discussion alive: Allow and encourage in-depth discussion, but try to avoid straying too far off topic.
+By following these steps and considerations, you and your team can enjoy the fun and inspiration of this game. Whether through the content on the cards or through discussions with each other, there are opportunities to gain new insights and inspiration. Happy gaming!
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
