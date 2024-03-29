@@ -27,32 +27,6 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 7. Upload `what-could-go-worng-av.pcio`
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
-## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-6.1 If the Card Czar really likes a card. He can give 2 points isntead of only 1. He can use this to make draws and make the game for comptetitive.
-8. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-9. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
-
-To make gameplay even more engaging and fun, we've introduced new features and enhancements. Here's what's new:
-
-## Enhanced Gameplay Instructions
-
-- **New Card Types:** We've introduced Wildcard and Challenge Cards to spice up the game. Wildcard Cards can alter game dynamics significantly, while Challenge Cards pose fun and thought-provoking scenarios for players to act out or debate.
-  
-- **Dynamic Rounds:** Timed rounds add urgency and a fast-paced dynamic to the gameplay. Role-play rounds, where players assume specific roles or personas, encourage deeper engagement and discussion.
-  
-- **Points and Rewards System:** The scoring system has been revamped to reward creativity, insightfulness, and active participation. Achievements and milestones can unlock special abilities or advantages, adding another layer of strategy to the game.
-
-- **Real-world AI Examples:** We've updated the prompts and responses to include current and relatable AI applications and ethical dilemmas, fostering richer discussions.
-
-## Gameplay Enhancements
-
-In addition to the standard draw and play mechanics, players are encouraged to engage with the new card types and the enhanced points system. Keep discussions lively and on-topic, but feel free to explore where the conversation leads, especially with the new, real-world AI scenarios. 
 
 ### During the game
 1. Take notes on ideas that you have not thought about before
