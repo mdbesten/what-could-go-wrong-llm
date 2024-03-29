@@ -28,21 +28,28 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
 ## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+The game can be both played in "quick-play" mode or "long-discussion" mode; each of these modes involve different settings.
+The "quick-play" mode will be more adapted for a few players.
+1. All players draw 5 white cards from their stack. To ensure a better clarity, cards have different colors : red cards are causes, blue cards are effects cards.
+2. Prompts are organized into thematic categories (e.g., healthcare, environment, public services...).
+3. Click the spinner to choose the first player who will be the Card Czar.
+4. The Card Czar then pull a black prompt card and reads it to the group 
+5. All other players then put 1 white response card face down in their slot.
+6. The Card Czar then flips and reads each white card out loud.
+7. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
+8. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
+8.The group's discussion for each round cannot exceed a certain time: 10 minutes for "long-discussion" mode, 5 minutes for "quick-play", to ensure a good flow.
+9. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+10. After each round, the new Card Czar needs to mix the deck to ensure a good balance between causes and effects.
+11. The game ends when a player reaches : 8 points for "long-discussion" mode, 5 points for "quick-play" mode.
 
 ### During the game
 1. Take notes on ideas that you have not thought about before
-2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
+2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best. 
 3. Some of the cards may be upsetting. (Such as, a person is abused.)
 4. It’s fine to take time to have discussion.
 5. Try not to get side tracked, though!
+6. It is possible to remove or modify content that players might find distressing.
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)

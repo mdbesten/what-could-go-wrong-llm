@@ -1,9 +1,9 @@
 PROMPT,NUMBERS
 Autonomous school bus,P1
-Autonomous medical transportation,P2
+Autonomous emergency services transportation,P2
 Autonomous drone surveillance of sporting events,P3
 Autonomous robot vacuum,P4
-Blood delivery via Drone,P5
+Critical Medical Supplies delivery via Drone,P5
 Drone deliver (air),P6
 Autonomous package delivery,P7
 Follow me drones,P8
@@ -14,7 +14,6 @@ Autonomous warehouse robots,P12
 Delivery robot in hospital,P13
 Sidewalk delivery robot,P14
 Delivery robot for hotel,P15
-Autonomous COVID checking robot,P16
 Autonomous picking for agriculture,P17
 Autonomous Picking products warehouse robots,P18
 Autonomous robot pet for companionship,P19
@@ -67,3 +66,7 @@ Deepfake news reporting,P65
 Automated joke writing,P66
 Automated fiction writing,P67
 Automated children's book illustrations,P68
+Autonomous Environmental Cleanup Robots,P69
+AI-Powered Tutoring Systems,P70
+AI-Assited Remote Healthcare Diagnosis,P71
+AI-Assistant for autism,P72

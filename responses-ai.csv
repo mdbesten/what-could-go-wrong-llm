@@ -1,9 +1,9 @@
 RESPONSE,NUMBERS
-Misidentification,R1
+Misidentification (The incorrect recognition of a person or object by a system),R1
 Servers go down,R2
-Out of scope data,R3
-Biased data,R4
-Privacy breach,R5
+Out of scope data (Data or scenarios that fall outside the parameters for which a system was designed or trained),R3
+Biased data (Data that unfairly prejudices the outcome of a system's operations, often reflecting existing inequalities or stereotypes),R4
+Privacy breach (An incident where sensitive, protected, or confidential data is accessed or disclosed without authorization),R5
 Non-identification,R6
 Hacking,R7
 Adopted for nefarious reasons,R8
@@ -23,8 +23,8 @@ Security certificate expires,R21
 Manufacturer can't meet demands,R22
 Bug in the code,R23
 Becomes sentient,R24
-Adversarial attacks,R25
-Datasets are biased,R26
+Adversarial attacks (Techniques that manipulate the input data to AI systems in subtle ways that cause them to malfunction),R25
+Datasets are biased (May not accurately represent the diversity of the real world),R26
 Personal data leaked,R27
 Automation fails,R28
 Cloud services go down,R29
@@ -62,7 +62,7 @@ Foreign intervention,R60
 Continues the inequalities of capitalism,R61
 Promotes race division,R62
 Promotes armed revolution,R63
-Tragedy of the commons,R64
+Tragedy of the commons (A situation in a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users, leading to the depletion of the resource),R64
 Causes a pandemic,R65
 people are addicted to it,R66
 Market meltdown,R67
@@ -97,4 +97,3 @@ Used by children,R95
 Transgender user,R96
 Used by non-expert,R97
 Unionized labor,R98
-Immigrants,R99
