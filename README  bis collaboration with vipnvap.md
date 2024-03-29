@@ -28,15 +28,19 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
 ## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
-
+1. All players draw 5 white cards from their stack
+2. Each player draws a card which defines the role of each and takes the Czar card. On this card, a black prompt appears, read it out loud to other players
+3. If a player either do not know the definition of the word mentionned on the prompt card or thinks there can be a confusion on the meaning of this word, this player tell others and : 
+  a. If every other players have the same definition in mind : explain it to the player who did not know and continue the game (go to fifth point of instructions).
+	b. If the other players disagree on the right definition : the whole team debate on the right definition to adopt.
+	c. If people disagree, the Card Czar decide it.
+4. The other players give their white response card to the Czar. The latter reads each white card out loud.
+5. He then chooses two white cards, one of which would be similar and the other contrary to the Tsar's black prompt. +1 point goes to the player whose card was chosen
+6. The group then discusses further the link between these chosen cards.
+7. Czar an award +1 point anyone who makes a good point in discussion and convinces him to choose another card more likely to be linked to the black prompt
+8. The Czar gives his Czar card to the person who debated the best for the next round
+	
+	
 ### During the game
 1. Take notes on ideas that you have not thought about before
 2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
