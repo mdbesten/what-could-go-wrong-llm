@@ -8,13 +8,14 @@
 
 **Gameplay:**
 1. **Deal Cards:** Each player draws 5 event cards and keeps them face down.
-2. **Choose the Card Czar:** Determine the first player (e.g., roll a die). This player becomes the Card Czar.
-3. **Draw a Prompt Card:** The Card Czar draws a single prompt card (marked with the tasks icon 📋) and reads it aloud.
-4. **Play Event Cards:** Each player selects one event card from their hand that best relates to the prompt and places it face down on the table.
-5. **Reveal and Discuss:** The Card Czar collects all event cards, shuffles them, and reveals them one by one, reading aloud. 
-6. **Choose the Winning Event Card:** The Card Czar selects the event card they find most interesting or relevant to the prompt. The player who played that card scores 1 point.
-7. **Group Discussion:** Discuss the prompt and the chosen event card. Players can earn bonus points for insightful comments or ideas.
-8. **Start a New Round:** After discussion, the next player becomes the Card Czar, and a new round begins. Players replenish their hands to 5 cards.
+2. **Challenge Cards:** Deck with challenge card, the player who played the winner card draws a challenge card and decides who is going to do the challenge.
+3. **Choose the Card Czar:** Determine the first player (e.g., roll a die). This player becomes the Card Czar.
+4. **Draw a Prompt Card:** The Card Czar draws a single prompt card (marked with the tasks icon 📋) and reads it aloud.
+5. **Play Event Cards:** Each player selects one event card from their hand that best relates to the prompt and places it face down on the table.
+6. **Reveal and Discuss:** The Card Czar collects all event cards, shuffles them, and reveals them one by one, reading aloud. 
+7. **Choose the Winning Event Card:** The Card Czar selects the event card they find most interesting or relevant to the prompt. The player who played that card scores 1 point and draws a challenge card. The winning player will then atribute the challenge to one of the players.
+8. **Group Discussion:** Discuss the prompt and the chosen event card. Players can earn bonus points for insightful comments or ideas.
+9. **Start a New Round:** After discussion, the next player becomes the Card Czar, and a new round begins. Players replenish their hands to 5 cards.
 
 **Winning:**
 * There is no set number of rounds. Players can continue playing as long as desired. The player with the most points at the end wins.
@@ -24,8 +25,6 @@
 * Encourage humor and silliness.
 * Engage in thoughtful discussion.
 * Listen to others' ideas and be respectful.
-
-
 
 ### Additional rules"
 If you want to change the rules of the games here is some idea to have a funnier experiences:
