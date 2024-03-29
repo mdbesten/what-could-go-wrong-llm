@@ -27,21 +27,6 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 7. Upload `what-could-go-worng-av.pcio`
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
-## Gameplay Instructions
-All players draw 5 white cards from their stack.
-Click the spinner to choose the first player who will be the Card Czar.
-The Card Czar then selects a black prompt card and reads it aloud to the group.
-All other players then select 1 white response card from their hand and place it face down in their designated slot.
-The Card Czar flips and reads each white card out loud.
-The Card Czar selects one of the white cards for further discussion. +1 point is awarded to the player whose card was chosen.
-The group engages in further discussion about potential issues based on the chosen card. Players can award +1 point to anyone who makes a significant contribution to the discussion.
-After the discussion concludes, the next player becomes the Card Czar, and the "Deal" button is clicked. Each player then draws a new white card to replenish their hand to 5 cards.
-New Features for Community Engagement:
-9. Community Voting: Introduce a feature where players can vote for the best response card submitted during each round. After the discussion, players can anonymously vote for the response card they found most creative, insightful, or entertaining. The player with the highest number of votes earns an additional point. This encourages community engagement and recognition of valuable contributions.
-
-Weekly Challenges: Implement weekly challenges that prompt players to create response cards based on specific themes or topics. These challenges could be announced on social media or within the game platform, and players can submit their response cards throughout the week. At the end of each week, the best response card from the challenge is selected by community vote, and the winning player earns a special reward or recognition. This fosters creativity, community interaction, and ongoing engagement with the game.
-
-
 
 ### During the game
 1. Take notes on ideas that you have not thought about before
@@ -88,5 +73,3 @@ For some motivation on why we want to develop new hazard analysis games.
   year={2022}
 }
 ```
-
-
