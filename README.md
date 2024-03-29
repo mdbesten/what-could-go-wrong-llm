@@ -15,7 +15,7 @@ Kaddour, J. et al. (2023) ‘Challenges and Applications of Large Language Model
 
 
 ## Abstract
-While autonomous vehicles have the potential to greatly improve our daily lives, there are also challenges and potential downsides to these systems. In this workshop, we intend to foster discussions about the potential negative aspects of autonomous cars in hopes of surfacing challenges that should be considered during the design process rather than after deployment. We will spur these conversations through a review of participant position statements and through group discussion facilitated by a card game called “What Could Go Wrong?” Our goal is to consider the autonomous vehicle’s benefits—improving safety, increasing mobility, reducing emissions—against potential drawbacks. By identifying potential harms and downsides, the workshop attendees, and the AutoUI community more broadly can design well-considered solutions.
+While autonomous vehicles have the potential to greatly improve our daily lives, there are also challenges and potential downsides to these systems. In this workshop, we intend to foster discussions about the potential negative aspects of autonomous cars in hopes of surfacing challenges that should be considered during the design process rather than after deployment. To enrich these discussions, we have added new features like the Contribution Tracking System to highlight active participant engagement, Dynamic Challenge Cards to tackle current AI ethical issues, and Scenario Expansion Packs to explore diverse AI applications. To enrich discussions, we have also introduced a Communication Feature that facilitates real-time discussion and feedback among players. We will spur these conversations through a review of participant position statements and through group discussion facilitated by a card game called “What Could Go Wrong?” Our goal is to consider the autonomous vehicle’s benefits—improving safety, increasing mobility, reducing emissions—against potential drawbacks and the broader implications for AI applications in various domains. By identifying potential harms and downsides, the workshop attendees, and the AutoUI community more broadly can design well-considered solutions.
 
 ## Game Setup Instructions
 1. Download this repository
@@ -26,6 +26,8 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 6. Select  `Import From File`
 7. Upload `what-could-go-worng-av.pcio`
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
+   
+After entering the gameplay mode, participants can engage with the new role-assignment feature to undertake specific organizational tasks and access the collaborative card crafting module to co-create new content with peers. Ensure to download any relevant Scenario Expansion Packs to keep the discussions up-to-date with the latest AI applications.
 
 ## Gameplay Instructions
 1. All players draw 5 white cards from their stack 
@@ -36,19 +38,29 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
 7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
 8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
-
+9. Each round, players will be assigned roles like "Ethics Overseer" or "Sustainability Steward," with specific tasks to contribute to the organization of the gameplay. (addition of Role Assignment Feature and Collaborative Card Crafting)
+10. Integrate a Communication canal, where players can chat, discuss strategies, and provide instant feedback on gameplay moves 
+    
 ### During the game
 1. Take notes on ideas that you have not thought about before
 2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
 3. Some of the cards may be upsetting. (Such as, a person is abused.)
 4. It’s fine to take time to have discussion.
 5. Try not to get side tracked, though!
+6. participants should engage with the Contribution Tracking System to ensure their engagement is accurately captured. This system will enhance the credit statement aspect of the game.
+7. Moreover, players are encouraged to utilize the online community contribution platform to submit their own expansions or modifications to the game, fostering an environment of online community Peer Production (OCPP).
+8.  Utilize the Communication canal to share thoughts and strategies, making the gameplay more interactive and engaging
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
 
 ## Adding new cards
-Edit the `prompts.csv` and `responses.csv` to add new cards to the decks. Follow instrcutions for adding new cards here: https://playingcards.io/docs/custom-decks
+Edit the `prompts.csv` and `responses.csv` to add new cards to the decks. Follow instrcutions for adding new cards here: https://playingcards.io/docs/custom-decks. 
+Players can also use the Collaborative Card Crafting feature during the gameplay to create new cards which may then be added to the game upon community review and approval.
+
+### Community Contributions
+A new online communities contribution platform is now available, where players can submit their game expansions or modifications, which will be reviewed by the community and possibly included in the official game, enhancing the OCPP relevance of "What Could Go Wrong."
+To further bolster community engagement, the new Communication Feature provides a forum for discussion and brainstorming, allowing for richer collaboration on submitted expansions or modifications
 
 ## Suggested Citation
 Nikolas Martelaro and Wendy Ju. 2020. What Could Go Wrong? Exploring the Downsides of Autonomous Vehicles. In *12th International Conference on Automotive User Interfaces and Interactive Vehicular Applications* (*AutomotiveUI '20*). Association for Computing Machinery, New York, NY, USA, 99–101. DOI:https://doi.org/10.1145/3409251.3411734
