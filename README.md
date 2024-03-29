@@ -29,22 +29,30 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 7. Upload `what-could-go-worng-av.pcio`
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
-## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+# Game Overview  
+"Online Communities: Navigating the Digital Frontier" is a card-based discussion game where players explore the complexities of online community participation and management. Through scenario-based prompts and strategic response options, players will navigate the challenges of digital ethics, content moderation, privacy concerns, community engagement, and more.  
 
-### During the game
-1. Take notes on ideas that you have not thought about before
-2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
-3. Some of the cards may be upsetting. (Such as, a person is abused.)
-4. It’s fine to take time to have discussion.
-5. Try not to get side tracked, though!
+## Game Components  
+Prompt Cards (Black Cards): These cards present scenarios or challenges commonly faced by online communities. Scenarios could range from dealing with trolls, managing misinformation, handling privacy breaches, to fostering inclusive environments.  
+Response Cards (White Cards): These cards offer potential actions, policies, or strategies to address the challenges presented in the prompt cards. Responses could include implementing new moderation tools, creating community guidelines, launching educational campaigns, and more.  
+
+## Game Setup Instructions for Real Life  
+Print the Card Decks: Use the provided LaTeX template to print physical copies of the prompt and response cards. Ensure there's a diverse mix of scenarios and strategies relevant to various types of online communities.  
+Prepare the Play Space: Arrange a comfortable area where players can gather around a table. Each player should have enough space to hold their cards.  
+Shuffle and Deal: Shuffle the prompt and response decks separately. Deal 5 response cards to each player.  
+
+## Gameplay Instructions  
+Choosing the Card Czar: The game begins by randomly selecting a player to be the Card Czar. This role rotates clockwise after each round.  
+Drawing a Prompt Card: The Card Czar draws the top card from the prompt deck and reads the scenario aloud to the group.  
+Submitting Response Cards: Players select one of their response cards that they believe best addresses the scenario, placing it face down.  
+Review and Discussion: The Card Czar reads each submitted response aloud. The group then discusses the merits and potential outcomes of each strategy.  
+Scoring: The Card Czar selects the response they believe is most effective, awarding a point to the player who submitted it. Optionally, additional points can be awarded for insightful contributions to the discussion.  
+Continuing the Game: The next player becomes the Card Czar, and everyone draws a new response card to maintain a hand of 5 cards. The game continues for a predetermined number of rounds or until all prompt cards have been used.  
+
+## Encouraging Discussion  
+Deep Dives: Allow for detailed discussions after each round to explore the complexities of managing online communities.  
+Real-World Examples: Encourage players to bring up real-life instances that relate to the game's scenarios.  
+Reflection: After the game, have a debrief session where players can reflect on what they've learned and share thoughts on how the game's scenarios relate to their experiences in online communities.  
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
