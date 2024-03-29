@@ -30,6 +30,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{ebgaramond}
+\usepackage{tikz}
 
 \usepackage{multicol}
 
@@ -48,10 +49,7 @@
 \cardbackstyle[\Huge]{plain}
 \cardfrontstyle[\large]{headings}
 
-
-
 \begin{document}
-
 
 \cardfrontfoot{What could go wrong?\qquad\faicon{creative-commons}}
 
@@ -74,17 +72,19 @@
 {\bf\small What could go wrong?---Gameplay Instructions}
 \begin{multicols}{2}
     \begin{enumerate}\tiny \setlength\itemsep{.2ex}
-        \item All players draw 5 event cards (\faicon{reply}) from their stack
-        \item Throw the dice to choose the first player who will be the Card Czar.
-        \item The Card Czar then pulls a prompt card (\faicon{tasks}) and reads it to the group
-        \item All other players then put 1 event card face down on the table.   
-        \item The Card Czar then flips and reads each white card out loud.
-        \item The Card Czar then picks one of the event cards to further discuss. +1 point goes to the player whose card was chosen.
-        \item The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-        \item After the discussion dissipates after a few minutes, another player becomes the Card Czar based on the throw of a dice. Each player then draws a new white card, so that they again have 5 cards in their hand.
+        \item All players draw 5 event cards from their stack.
+        \item Use the spinner to select the Card Czar.
+        \item The Card Czar reads a black prompt card to the group.
+        \item Players think strategically about a card and submit it face down, or a combo in the case of the Wildcard Round, for the best match with the prompt.
+        \item \textbf{Wildcard Round: Introduced at a set game point, like after every third round. Players can use two white cards for a chance at double points if both cards of one player are chosen by the Card Czar.}
+        \item The Card Czar reveals and chooses the most fitting or humorous cards. Chosen cards' user earn points: +1 normally, \textbf{+2 during the Wildcard Round if both cards of one player are chosen}.
+        \item Discuss the chosen cards and award +1 point for compelling contributions.
+        \item After discussing, the next player becomes the Card Czar. Each player then draws new cards, so that they again have 5 cards in their hand.
     \end{enumerate}
-    \end{multicols}
+\end{multicols}
 \end{flashcard}
+
+
 
 % Adopted from http://www.unm.edu/~unmvclib/gamification/assessment/gameevaluationcriteria.pdf
 \begin{flashcard}[\faicon{meh-o}\quad Game Evaluation Criteria]{
@@ -125,6 +125,38 @@
 \end{flashcard}
 
 
+
+\begin{flashcard}[\faicon{star}\quad Wildcard Round]{
+\begin{center}
+\begin{tikzpicture}[scale=1]    
+    % Title with customized font
+    \node[align=center, font=\bfseries\Large] at (4cm, 4.5cm) {Wildcard};
+    
+    % Additional customization
+    % You can add more elements here to customize the first side further
+    
+\end{tikzpicture}
+\end{center}
+}
+{\bf\small Wildcard Round}
+\begin{center}
+\begin{tikzpicture}[scale=1]
+    % Card background    
+    
+    % Quote
+    \node[align=center, font=\itshape, text width=6cm] at (4cm, 2.5cm) {Go wild for a while}; % Adjusted position and width
+    
+    % Instruction Text
+    \node[text width=7cm, align=center, font=\footnotesize] at (4cm,1cm) {Play two cards this round for a chance to double your points!}; % Adjusted position and width
+    
+
+\end{tikzpicture}
+\end{center}
+\end{flashcard}
+
+
+
+
 \DTLforeach{prompt}{%
     %% Map each column header in your .csv file to a command
 	\Description=PROMPT,%
@@ -152,6 +184,5 @@
 \faicon{reply}\quad{\sc \deck}\\
 \end{flashcard}
 }
-
 
 \end{document}
