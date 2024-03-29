@@ -1,4 +1,4 @@
-# What Could Go Wrong - LLM Edition
+![image](https://github.com/mdbesten/what-could-go-wrong-llm/assets/153432369/c7530049-7c6e-4392-a9d8-93ea590c393e)# What Could Go Wrong - LLM Edition
 
 This repository hosts the files used for the What Could Go Wrong? digital card game. Nikolas Martelaro and Wendy Ju developed and presented the game at a Workshop at AutoUI 2020. The game was then modified by Nik and his team at CMU to be more generalized for AI-based systems.
 
@@ -29,13 +29,13 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 
 ## Gameplay Instructions
 1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+2. Each player draws a card which defines the role of each and takes the Czar card. On this card, a black prompt appears, read it out loud to other players.
+3. The other players give their white response car to the Czar.
+4. The latter reads each white card out loud.
+5. He then chooses two white cards, one of which would be similar and the other contrary to the Tsar's black prompt. +1 point goes to the player whose card was chosen.
+6. The group then discusses further the link between these chosen cards. 
+7. Czar an award +1 point anyone who makes a good point in discussion and convinces him to choose another card more likely to be linked to the black prompt.
+8. After the discussion dissipates after a few minutes, The Czar gives his Czar card to the person who debated the best for the next round. Each player then draws a new white card, so that they again have 5 cards in their hand.
 
 ### During the game
 1. Take notes on ideas that you have not thought about before
