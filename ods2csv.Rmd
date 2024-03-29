@@ -5,58 +5,59 @@ date: "2023-12-11"
 output: html_document
 ---
 
+## Read file with game variants.
 
-Read file with game variants.
 ```{r}
+# Load the necessary library
 require(readODS)
 
+# Specify the source file path
 src <- "WhatCouldGoWrongCards.ods";
+
+# Read the names of all sheets in the ODS file
 collection <- list_ods_sheets(src);
 
+# Read the contents of each sheet and store them in a list
 contents <- lapply(collection, function(sheet) {
-  return(read_ods(src, sheet));
+  read_ods(src, sheet)
 });
 
+# Assign the names of each sheet to the corresponding elements in the list
 names(contents) <- collection;
 
-```
 
-Transform into card decks that can be imported into PlayingCards.io
 
-```{r}
 
+# Define a transformation function to convert data frames into card deck formats
 transform.deck <- function(tab, type = "prompt") {
-  # assign an ID to each card
-  id <- paste0(ifelse(type != "prompt", "R", "P"), 1:nrow(tab));
+  # Assign an ID to each card
+  id <- paste0(ifelse(type != "prompt", "R", "P"), seq_len(nrow(tab)));
   
-  # assume that text for prompts is specified in the right-most column
-  # assume that additional category label is specified in the left-most column
+  # Assume that prompt text is specified in the right-most column and an additional category label in the left-most column
   m <- ncol(tab);
   
-  df <- data.frame(val = tab[,m], NUMBERS = id);
+  # Create a new dataframe to hold the transformed data
+  df <- data.frame(VALUE = tab[,m], NUMBERS = id);
   if(m > 1) {
-    df[, "LABEL"] <- tab[,1];
+    df$LABEL <- tab[,1];
   }
   
+  # Set the column name to represent the type in uppercase
   names(df)[1] <- toupper(type);
   
   return(df);
 }
 
 
-```
-
-Write to files to be imported into PlayingCards.io.
-
-```{r}
+# Define the file suffix
 file.suffix <- "csv";
+
+# Apply the transformation function to each sheet and write the results to CSV files
 for(sheet in collection) {
-  write.csv(transform.deck(contents[[sheet]],
-                           type = ifelse(grepl("prompt", sheet),
-                                         "prompt", "response")),
-            file = paste(sheet, file.suffix, sep="."),
-            row.names = FALSE);
+  sheet_data <- transform.deck(contents[[sheet]],
+                               type = ifelse(grepl("prompt", sheet, ignore.case = TRUE),
+                                             "prompt", "response"))
+  # Build the file name and save as CSV, excluding row names
+  file_name <- paste0(sheet, ".", file.suffix)
+  write.csv(sheet_data, file = file_name, row.names = FALSE, quote = FALSE)
 }
-
-```
-
