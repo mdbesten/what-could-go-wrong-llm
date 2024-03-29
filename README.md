@@ -38,6 +38,22 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 8. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
 9. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
 
+To make gameplay even more engaging and fun, we've introduced new features and enhancements. Here's what's new:
+
+## Enhanced Gameplay Instructions
+
+- **New Card Types:** We've introduced Wildcard and Challenge Cards to spice up the game. Wildcard Cards can alter game dynamics significantly, while Challenge Cards pose fun and thought-provoking scenarios for players to act out or debate.
+  
+- **Dynamic Rounds:** Timed rounds add urgency and a fast-paced dynamic to the gameplay. Role-play rounds, where players assume specific roles or personas, encourage deeper engagement and discussion.
+  
+- **Points and Rewards System:** The scoring system has been revamped to reward creativity, insightfulness, and active participation. Achievements and milestones can unlock special abilities or advantages, adding another layer of strategy to the game.
+
+- **Real-world AI Examples:** We've updated the prompts and responses to include current and relatable AI applications and ethical dilemmas, fostering richer discussions.
+
+## Gameplay Enhancements
+
+In addition to the standard draw and play mechanics, players are encouraged to engage with the new card types and the enhanced points system. Keep discussions lively and on-topic, but feel free to explore where the conversation leads, especially with the new, real-world AI scenarios. 
+
 ### During the game
 1. Take notes on ideas that you have not thought about before
 2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
@@ -83,5 +99,3 @@ For some motivation on why we want to develop new hazard analysis games.
   year={2022}
 }
 ```
-
-
