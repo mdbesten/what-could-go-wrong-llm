@@ -41,6 +41,7 @@ After entering the gameplay mode, participants can engage with the new role-assi
 9. Each round, players will be assigned roles like "Ethics Overseer" or "Sustainability Steward," with specific tasks to contribute to the organization of the gameplay. (addition of Role Assignment Feature and Collaborative Card Crafting)
 10. Integrate a Communication canal, where players can chat, discuss strategies, and provide instant feedback on gameplay moves 
     
+
 ### During the game
 1. Take notes on ideas that you have not thought about before
 2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
