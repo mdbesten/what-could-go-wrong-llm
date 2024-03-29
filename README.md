@@ -30,21 +30,21 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
 ## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+1. Players draw 5 white cards.
+2. Use the spinner to select the Card Czar.
+3. The Card Czar draws a black prompt card and reads it aloud.
+4. Players place a white response card face down.
+5. The Card Czar reads each response aloud.
+6. Instead of selecting the preferred answer, the Card Czar tries to guess who played which card, adding a playful and engaging twist. This rule encourages the Card Czar to justify their choices, enhancing memory and engagement with the game's content.
+7. Discussion ensues, and points are awarded not only for the selected card but for insightful contributions to the conversation.
+8. The role of Card Czar rotates, and play continues.
 
 ### During the game
 1. Take notes on ideas that you have not thought about before
 2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
 3. Some of the cards may be upsetting. (Such as, a person is abused.)
-4. It’s fine to take time to have discussion.
-5. Try not to get side tracked, though!
+4. Engage in discussions, even on challenging topics.
+5. Stay on track but allow for meaningful digressions.
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
