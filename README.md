@@ -14,30 +14,39 @@ Floridi, L. et al. (2021) ‘An Ethical Framework for a Good AI Society: Opportu
 Kaddour, J. et al. (2023) ‘Challenges and Applications of Large Language Models’. arXiv. Available at: https://doi.org/10.48550/arXiv.2307.10169.
 
 
-## Abstract
-While autonomous vehicles have the potential to greatly improve our daily lives, there are also challenges and potential downsides to these systems. In this workshop, we intend to foster discussions about the potential negative aspects of autonomous cars in hopes of surfacing challenges that should be considered during the design process rather than after deployment. We will spur these conversations through a review of participant position statements and through group discussion facilitated by a card game called “What Could Go Wrong?” Our goal is to consider the autonomous vehicle’s benefits—improving safety, increasing mobility, reducing emissions—against potential drawbacks. By identifying potential harms and downsides, the workshop attendees, and the AutoUI community more broadly can design well-considered solutions.
+# Abstract
+
+While autonomous vehicles have the potential to significantly enhance our daily lives by improving safety, increasing mobility, and reducing emissions, they also introduce various challenges and potential downsides. In this workshop, our aim is to engage in meaningful discussions about the possible negative impacts of autonomous cars, to highlight concerns that need to be addressed during the design phase rather than post-deployment. To facilitate this, we will use participant position statements and group discussions, centered around a thought-provoking card game titled “What Could Go Wrong?” This innovative approach allows us to weigh the advantages of autonomous vehicles against their potential drawbacks, encouraging workshop participants and the broader AutoUI community to develop thoughtful, well-considered solutions.
 
 ## Game Setup Instructions
-1. Download this repository
-2. Go to https://playingcards.io/game/standard-deck to start a custom deck
-3. Enter the virtual card table
-4. Click the `Edit Table` icon in the green toolbard
-5. Select `Room Options`
-6. Select  `Import From File`
-7. Upload `what-could-go-worng-av.pcio`
-8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
-## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
+- Download the provided repository.
+- Navigate to [https://playingcards.io/game/standard-deck](https://playingcards.io/game/standard-deck) to initiate a custom deck session.
+- Access the virtual card table.
+- Click the Edit Table icon within the green toolbar.
+- Choose Room Options, then Select Import From File.
+- Upload the file named "what-could-go-wrong-av.pcio".
+- Click Edit Table again to conclude the editing mode and enter the gameplay mode.
+
+## Gameplay Instructions with Wildcard Round Integration
+
+1. All players draw 5 white cards from their stack.
+2. Click the spinner to determine the first player to become the Card Czar.
+3. The Card Czar pulls a black prompt card and reads it aloud to the group.
 4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+5. **Introducing the Wildcard Round**: At a predetermined point in the game, players are allowed to play two white cards instead of one, introducing a dynamic element of strategy. This round allows for the potential to earn double points if both cards are selected by the Card Czar, encouraging deeper thought in card selection and synergy.
+   
+- **Activation**: The Wildcard Round is introduced at a specific, pre-announced point in the game, such as after every third round, to inject a refreshing twist.
+- **Dual Play**: During this round, players are permitted to select two white cards from their hand instead of the standard single card. This challenges players to think strategically about card combinations that will resonate with the prompt and with each other.
+- **Double Points Opportunity**: If the Card Czar selects a player’s combination as the most compelling, that player earns double points for the round. This raises the stakes and encourages players to engage more deeply with both the prompt and their cards.
+  
+6. The Card Czar reveals all submitted white cards, reading each aloud. They then select the card(s) that they find most fitting or humorous in relation to the black prompt card. +1 point (+2 in case of both the two submitted cards are chosen in wildcard round) goes to the player whose card was chosen.
+7. The chosen white card sparks a group discussion, allowing players to explore further implications or humorous takes on the scenario.
+8. The group engages in an extended discussion on what else could go wrong based on the chosen card. Participants can award +1 point to anyone who contributes a compelling point during the discussion.
+9. After the discussion concludes, a new Card Czar is chosen via the spinner, and the "Deal" button is pressed. This ensures each player draws up to 5 cards again, preparing for the next round.
 
-### During the game
+
+## During the game
 1. Take notes on ideas that you have not thought about before
 2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
 3. Some of the cards may be upsetting. (Such as, a person is abused.)
