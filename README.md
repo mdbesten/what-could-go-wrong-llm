@@ -42,11 +42,12 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 8. After the discussion dissipates after a few minutes, the next player becomes the White Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
 
 ### During the game
-1. Take notes on ideas that you have not thought about before
-2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
-3. Some of the cards may be upsetting. (Such as, a person is abused.)
-4. It’s fine to take time to have discussion.
-5. Try not to get side tracked, though!
+1. Count the points 
+2. Take notes on ideas that you have not thought about before
+3. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
+4. Some of the cards may be upsetting. (Such as, a person is abused.)
+5. It’s fine to take time to have discussion.
+6. Try not to get side tracked, though!
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
