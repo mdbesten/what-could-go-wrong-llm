@@ -6,6 +6,8 @@ In this version, the game delves into the vast universe of online social structu
 
 This iteration is enriched with a versatile LaTeX template, enabling enthusiasts to bring the game into the physical realm from its digital origins. Players can immerse themselves in "Community Constellations" through PlayingCards.io, where the game thrives with options for customizing decks through provided csv files for prompts and responses, allowing for a tailored exploration of online communities' complexities.
 
+This latest version was modified by Inès Ennigrou with the goal of facilitating the flow of the game and by adding some instruction in the context of the organization so that the different roled are clearer and so that there won't be some issues when playing.
+
 The digital card game can be loaded into and played on PlayingCards.io. Custom cards can be added using the `csv` files for `prompts` and `responses`
 
 ### References
@@ -30,21 +32,30 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
 ## Gameplay Instructions
+1.1. First the players need to split into two teams equally: so there will basically be a champion and a team who would win, this will allow the flow to be more fluid
 1. All players draw 5 white cards from their stack 
 2. Click the spinner to choose the first player who will be the Card Czar.
 3. The Card Czar then pull a black prompt card and reads it to the group 
+3.1. The team that lays out its card last will get a -1 (the point is to encourage the game to go faster)
+3.2. Timer: if the player doesn't lay out his card by the time the timer goes off, he'll automatically skip this turn (giving less chance for his team to win, and him to be picked)
+3.3. We can also instaure themed turn as an additionnal challenge (Introducing themed rounds based on specific genres, such as horror, science fiction, or fantasy. Each themed round could feature scenario cards tailored to that genre, allowing players to explore different storytelling tropes and archetypes. Themed rounds add thematic depth to the game and provide players with new creative challenges to tackle)
 4. All other players then put 1 white response card face down in their slot.
+4.4. The cards are then mixed so that the Czar can't tell if the card is from he's team or not
 5. The Card Czar then flips and reads each white card out loud.
 6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
+7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion. 
+##(people shouldn't have the right to award one point to your own teammate in order for the game to be more fair)
 8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+[Wild Element]:
+we can have some bonus cards in the deck of responses: they can cover a lot of things such as: "you win this turn", "you get to exchange a card with someone else", "you don't get the penality in case of non respect of the time limit", "you get to read one of the card alrealdy disposed", "you get to change your cards from the deck"...
 
 ### During the game
-1. Take notes on ideas that you have not thought about before
+1. Take notes on ideas that you have not thought about before (Maybe taking notes doesn't feel like a game: it becomes way too serious and boring)
+1.1. the Czar get to be sort of a referee (he takes notes about the points)
 2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
 3. Some of the cards may be upsetting. (Such as, a person is abused.)
-4. It’s fine to take time to have discussion.
-5. Try not to get side tracked, though!
+4. It’s fine to take time to have discussion. (a timer would be instaured so that the discussion doesn't take longer than let say 1min)
+5. Try not to get side tracked, though! (the Czar can be responsible to maintain the order during his turn as Czar)
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
