@@ -4,6 +4,8 @@ This repository hosts the files used for the What Could Go Wrong? digital card g
 
 The version here presents a further iteration on the game. In this iteration, prompts focus on applications of large language models. Example applications are drawn from two sources: Kaddour et al.(2023) and FlowGPT.com. The list of potential ethical issues stems from the AI4People framework (Floridi et al., 2021) and a business ethics enumeration (Baker and Comer, 2012). Besides, this iteration of the game includes a LaTeX template, which can be used to convert the digital card game into a physical card game. 
 
+This latest version was modified by Inès Ennigrou with the goal of facilitating the flow of the game and by adding some instruction in the context of the organization so that the different roled are clearer and so that there won't be some issues when playing.
+
 The digital card game can be loaded into and played on PlayingCards.io. Custom cards can be added using the `csv` files for `prompts` and `responses`
 
 ### References
