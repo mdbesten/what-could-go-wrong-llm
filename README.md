@@ -29,15 +29,25 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 7. Upload `what-could-go-worng-av.pcio`
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
-## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
+## Gameplay Instructions with Wildcard Round Integration
+
+1. All players draw 5 white cards from their stack.
+2. Click the spinner to determine the first player to become the Card Czar.
+3. If a player either do not know the definition of the word mentionned on the prompt card or thinks there can be a confusion on the meaning of this word, this player tell others and : 
+  a. If every other players have the same definition in mind : explain it to the player who did not know and continue the game (go to fifth point of instructions).
+	b. If the other players disagree on the right definition : the whole team debate on the right definition to adopt.
+	c. If people disagree, the Card Czar decide it.
 4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+5. **Introducing the Wildcard Round**: At a predetermined point in the game, players are allowed to play two white cards instead of one, introducing a dynamic element of strategy. This round allows for the potential to earn double points if both cards are selected by the Card Czar, encouraging deeper thought in card selection and synergy.
+
+- **Activation**: The Wildcard Round is introduced at a specific, pre-announced point in the game, such as after every third round, to inject a refreshing twist.
+- **Dual Play**: During this round, players are permitted to select two white cards from their hand instead of the standard single card. This challenges players to think strategically about card combinations that will resonate with the prompt and with each other.
+- **Double Points Opportunity**: If the Card Czar selects a player’s combination as the most compelling, that player earns double points for the round. This raises the stakes and encourages players to engage more deeply with both the prompt and their cards.
+
+6. The Card Czar reveals all submitted white cards, reading each aloud. They then select the card(s) that they find most fitting or humorous in relation to the black prompt card. +1 point (+2 in case of both the two submitted cards are chosen in wildcard round) goes to the player whose card was chosen.
+7. The chosen white card sparks a group discussion, allowing players to explore further implications or humorous takes on the scenario.
+8. The group engages in an extended discussion on what else could go wrong based on the chosen card. Participants can award +1 point to anyone who contributes a compelling point during the discussion.
+9. After the discussion concludes, a new Card Czar is chosen via the spinner, and the "Deal" button is pressed. This ensures each player draws up to 5 cards again, preparing for the next round.
 
 ### During the game
 1. Take notes on ideas that you have not thought about before
