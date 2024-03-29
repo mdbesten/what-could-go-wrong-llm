@@ -30,7 +30,7 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 ## Gameplay Instructions
 1. All players draw 5 white cards from their stack 
 2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
+3. The Card Czar then pull a black prompt card and reads it to the group.
 4. All other players then choose as many event cards as possible in such a way that they're able to correlate the subjects during the discussion.
 5. The group then discusses further what else could go wrong based on the chosen card. People award +1 point anyone who makes a good point in discussion. Additional points are given to the person that seemlessly include the contents of different cards into the discussion, these points are based on the quantity of event cards used (+1 point for each extra card).
 6. After the discussion dissipates after a few minutes, another player becomes the Card Czar based on the throw of a dice. Each player then draws new white cards, so that they again have 5 cards in their hand.
