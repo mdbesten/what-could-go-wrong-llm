@@ -26,10 +26,14 @@ While peer communities have the potential to support and improve our daily lives
 2.  Go to <https://playingcards.io/game/standard-deck> to start a custom deck
 3.  Enter the virtual card table
 4.  Click the `Edit Table` icon in the green toolbard
-5.  Select `Room Options`
-6.  Select `Import From File`
-7.  Upload `what-could-go-worng-av.pcio`
-8.  Click `Edit Table` to exit editing mode and go into gameplay mode
+5.  On the default 'click to add widgets' tab, scroll down to 'Card Decks'.
+6.  Select `Custom Card Deck`.
+7.  A circle will popup on the table, click 'Edit Collection'
+8.  Select the gameplay options you'd like, then go to Cards, delete all existing cards.
+9.  Select 'Import CSV file' 
+10.  Upload `responses.csv` and 'prompts.csv' or any of the language versions you prefer. 
+11.  Click `Done` to exit editing mode and go into gameplay mode
+12. For any questions on how the layers work, see <https://playingcards.io/docs/custom-decks>
 
 ## Gameplay Instructions
 
