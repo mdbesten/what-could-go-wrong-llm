@@ -43,8 +43,9 @@ The game can be both played in "Blitz" mode or "Debate" mode; each of these mode
 6.  The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
 7.  The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion. Each response has prompts to lead the discussion.
 8.  The group's discussion for each round cannot exceed a certain time: 10 minutes for "Debate" mode, 5 minutes for "Blitz", to ensure a good flow.
-9.  After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the "Deal" button. Each player then draws a new white card, so that they again have 5 cards in their hand.
-10.  The game ends when a player reaches : 8 points for "Debate" mode, 5 points for "Blitz" mode.
+9.  The player whose white response was chosen by the Czar, draws one challenge card and assigns the completion of the challenge to another player.
+10. After the challenge, the next player becomes the Card Czar and clicks the "Deal" button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+11. The game ends when a player reaches : 8 points for "Debate" mode, 5 points for "Blitz" mode.
 
 ### During the game
 
