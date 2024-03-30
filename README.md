@@ -33,15 +33,19 @@ While peer communities have the potential to support and improve our daily lives
 
 ## Gameplay Instructions
 
+The game can be both played in "Blitz" mode or "Debate" mode; each of these modes involve different settings.
+
 1.  All players draw 5 white cards from their stack
 2.  Click the spinner to choose the first player who will be the Card Czar.
-3.  The Card Czar then pull a black prompt card and reads it to the group
+3.  The Card Czar then pull a black prompt card and reads it to the group.
 4.  All other players then put 1 white response card face down in their slot.
 5.  The Card Czar then flips and reads each white card out loud.
 6.  The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7.  The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8.  The player whose white response was chosen by the Czar, draws one challenge card and assigns the completion of the challenge to another player.
-9.  After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the "Deal" button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+7.  The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion. Each response has prompts to lead the discussion.
+8.  The group's discussion for each round cannot exceed a certain time: 10 minutes for "Debate" mode, 5 minutes for "Blitz", to ensure a good flow.
+9.  The player whose white response was chosen by the Czar, draws one challenge card and assigns the completion of the challenge to another player.
+10. After the challenge, the next player becomes the Card Czar and clicks the "Deal" button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+11. The game ends when a player reaches : 8 points for "Debate" mode, 5 points for "Blitz" mode.
 
 ### During the game
 
