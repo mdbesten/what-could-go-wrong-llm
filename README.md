@@ -45,7 +45,7 @@ The game can be both played in "Blitz" mode or "Debate" mode; each of these mode
 4.  All other players then put 1 white response card face down in their slot.
 5.  The Card Czar then flips and reads each white card out loud.
 6.  The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen, he is now considered as the winner of the round.
-7.  The group then discusses further what else could go wrong based on the chosen card. People award +1 point for the player who has the best arguments in discussion. 
+7.  The group then discusses further what else could go wrong based on the chosen card. At the end of the discussion an anonymous poll is launched and people award +1 point for the player who has the best arguments in discussion. 
 8. The round winner also votes for his/her favorite among the 5 remaining players. If it matchs the community vote, this person  obtains an additional point as a reward since his point of view match the group's one. Each response has prompts to lead the discussion.
 9.  The group's discussion for each round cannot exceed a certain time: 10 minutes for "Debate" mode, 5 minutes for "Blitz", to ensure a good flow.
 10.  The player whose white response was chosen by the Czar, draws one challenge card and assigns the completion of the challenge to another player.
