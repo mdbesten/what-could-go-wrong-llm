@@ -30,14 +30,23 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 8. Click `Edit Table` to exit editing mode and go into gameplay mode
 
 ## Gameplay Instructions
-1. All players draw 5 white cards from their stack 
-2. Click the spinner to choose the first player who will be the Card Czar.
-3. The Card Czar then pull a black prompt card and reads it to the group 
-4. All other players then put 1 white response card face down in their slot.
-5. The Card Czar then flips and reads each white card out loud.
-6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+1. Splitting into teams: After the tutorial - instruct players to divide into two equal-sized teams (ideally 3 players each).
+2. All players draw 5 white cards from their stack 
+3. Click the spinner to choose the first player who will be the Card Czar.
+4. The Card Czar then pulls a black prompt card and reads it to the group 
+5. All other players then put 1 white response card face down in their slot.
+6. The Card Czar then flips and reads each white card out loud.
+7. The Card Czar then picks one of the white cards for further discussion. +1 point goes to the player's team whose card was chosen.
+8. announce a short team discussion phase (around 2 minutes) - use a timer.
+9. Each team should collaboratively discuss the chosen prompt and response card - focusing on Strengthening their arguments about both positive and negative aspects. and Anticipating counter-arguments from the opposing team
+10. Inter-Team Debate - After the discussion phase, each team gets a chance to present their perspective on the prompt and response card for a set time (around 1 minute each). 
+11. The two teams then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
+12. Teams can address points raised by the opposing team during their presentation.
+13. Card Czar Decision and Points - Following the presentations, the Card Czar awards points
+14. Strength of Arguments (1 point each team): Did the teams present well-reasoned arguments considering both positive and negative aspects?
+15. Originality (1 point each team): Did the teams present unique perspectives that sparked new ideas?
+16. Rebuttal Skills (1 point each team): Did the teams effectively address the opposing team's arguments?
+17. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
 
 ### During the game
 1. Take notes on ideas that you have not thought about before
@@ -84,5 +93,3 @@ For some motivation on why we want to develop new hazard analysis games.
   year={2022}
 }
 ```
-
-
