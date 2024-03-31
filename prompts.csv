@@ -1,4 +1,4 @@
-Prompts,NUMBERS
+PROMPTS,IDENTIFIER
 Fundraising for Charity,P1
 Story generation,P2
 Lecture summarization,P3
@@ -67,3 +67,4 @@ Civic engagement promotion, P65
 Community asset mapping project, P66
 Produce and goods sharing marketplace, P67
 Wildlife conservation support effort, P68
+Generates Electromagnetic Interference, R112

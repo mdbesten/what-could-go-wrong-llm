@@ -7,7 +7,7 @@ This repository hosts the files used for the What Could Go Wrong? digital card g
 The version here presents a further iteration on the game. In this iteration, prompts focus on peer communities, online and in person. Example applications are drawn from two sources: Kaddour et al.(2023) and FlowGPT.com. The list of potential ethical issues stems from wide range of sources, including the online peer collaboration of Dauphine Students. Existing prompts for AI and other iterations have been narrowed down, and added to by students. Besides, this iteration of the game includes a LaTeX template, which can be used to convert the digital card game into a physical card game.
 
 The digital card game can be loaded into and played on PlayingCards.io. Custom cards can be added using the `csv` files for `prompts` and `responses`
-
+111
 ### References
 
 Baker, S.D. and Comer, D.R. (2012) '"Business Ethics Everywhere": An Experiential Exercise to Develop Students' Ability to Identify and Respond to Ethical Issues in Business', Journal of Management Education, 36(1), pp. 95--125. Available at: <https://doi.org/10.1177/1052562911408071>.
@@ -26,21 +26,31 @@ While peer communities have the potential to support and improve our daily lives
 2.  Go to <https://playingcards.io/game/standard-deck> to start a custom deck
 3.  Enter the virtual card table
 4.  Click the `Edit Table` icon in the green toolbard
-5.  Select `Room Options`
-6.  Select `Import From File`
-7.  Upload `what-could-go-worng-av.pcio`
-8.  Click `Edit Table` to exit editing mode and go into gameplay mode
+5.  On the default 'click to add widgets' tab, scroll down to 'Card Decks'.
+6.  Select `Custom Card Deck`.
+7.  A circle will popup on the table, click 'Edit Collection'
+8.  Select the gameplay options you'd like, then go to Cards, delete all existing cards.
+9.  Select 'Import CSV file' 
+10.  Upload `responses.csv` and 'prompts.csv' or any of the language versions you prefer. 
+11.  Click `Done` to exit editing mode and go into gameplay mode
+12. For any questions on how the layers work, see <https://playingcards.io/docs/custom-decks>
 
 ## Gameplay Instructions
 
+The game can be both played in "Blitz" mode or "Debate" mode; each of these modes involve different settings.
+
 1.  All players draw 5 white cards from their stack
 2.  Click the spinner to choose the first player who will be the Card Czar.
-3.  The Card Czar then pull a black prompt card and reads it to the group
+3.  The Card Czar then pull a black prompt card and reads it to the group.
 4.  All other players then put 1 white response card face down in their slot.
 5.  The Card Czar then flips and reads each white card out loud.
-6.  The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7.  The group then discusses further what else could go wrong based on the chosen card. At the end of the discussion an anonymous poll is launched and the player with the highest number of votes gets +1 point.
-8.  After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the "Deal" button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+6.  The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen, he is now considered as the winner of the round.
+7.  The group then discusses further what else could go wrong based on the chosen card. At the end of the discussion an anonymous poll is launched and people award +1 point for the player who has the best arguments in discussion. 
+8. The round winner also votes for his/her favorite among the 5 remaining players. If it matchs the community vote, this person  obtains an additional point as a reward since his point of view match the group's one. Each response has prompts to lead the discussion.
+9.  The group's discussion for each round cannot exceed a certain time: 10 minutes for "Debate" mode, 5 minutes for "Blitz", to ensure a good flow.
+10.  The player whose white response was chosen by the Czar, draws one challenge card and assigns the completion of the challenge to another player.
+11. After the challenge, the next player becomes the Card Czar and clicks the "Deal" button. Each player then draws a new white card, so that they again have 5 cards in their hand.
+12. The game ends when a player reaches : 8 points for "Debate" mode, 5 points for "Blitz" mode.
 
 ### During the game
 
