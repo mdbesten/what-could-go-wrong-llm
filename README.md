@@ -55,11 +55,17 @@ To make gameplay even more engaging and fun, we've introduced new features and e
 In addition to the standard draw and play mechanics, players are encouraged to engage with the new card types and the enhanced points system. Keep discussions lively and on-topic, but feel free to explore where the conversation leads, especially with the new, real-world AI scenarios. 
 
 ### During the game
-1. Take notes on ideas that you have not thought about before
-2. Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
-3. Some of the cards may be upsetting. (Such as, a person is abused.)
-4. It’s fine to take time to have discussion.
-5. Try not to get side tracked, though!
+1.Draw 5 white cards from your stack at the beginning of each round to form your hand.
+2. Use the spinnerto determine who will be the first Card Czar.
+3. If you are the Card Czar, draw a black prompt card and read it aloud to the group.
+4. Other players must place one white response card face down in their slot.
+5. As the Card Czar, reveal and read aloud each white card.
+6. Choose a white card that you find most relevant or interesting and award +1 point to the player who submitted it.
+
+### Gamification and Rewards
+- Earn points by participating actively in the game. Points can be gained by having your card selected by the Card Czar, contributing to the discussion, or suggesting viable solutions based on the cards.
+- Track your progress on the digital leaderboard, which can be found on the game's online platform. This board will update in real-time, showing your points and the badges or achievements you've earned.
+- Collect badges and achievements for reaching specific milestones or demonstrating exemplary participation. These will be awarded automatically based on your activity and contributions tracked through the digital system.
 
 ### Video Demonstration
 [![What could go wrong card game demonstration](https://img.youtube.com/vi/DlqgWnhEqoc/0.jpg)](https://youtu.be/DlqgWnhEqoc)
