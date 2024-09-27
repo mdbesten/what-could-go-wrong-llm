@@ -1,3 +1,37 @@
+# 1. Game Objective Re-definition
+New Objective: To explore the potential challenges and ethical dilemmas faced by online communities, ranging from moderation and governance to privacy and misinformation.
+
+# 2. Content Adjustment
+Prompt Cards (Black Cards): These should now focus on scenarios that are common or possible within online communities. Examples include dilemmas around content moderation, dealing with trolls, handling sensitive information, and addressing misinformation.
+Response Cards (White Cards): Adjust these cards to include responses or actions that can be taken in online community contexts. These could range from implementing new moderation policies to creating educational campaigns about digital literacy.
+
+# 3. Sources for Scenarios
+Look into common issues faced by large online platforms and forums. Use case studies from platforms like Reddit, Twitter, and Facebook to generate realistic scenarios.
+Research papers and articles focusing on online community management, digital ethics, and social media challenges can offer insights and scenarios that can be turned into game prompts.
+
+# 4. Ethical Frameworks
+Incorporate ethical frameworks that are relevant to digital communities, such as the Santa Clara Principles on Transparency and Accountability in Content Moderation or the Digital Justice Principles.
+You can still utilize the AI4People framework for its broad ethical considerations which are also applicable to online communities.
+
+# 5. Game Setup Instructions Adaptation
+The game's digital setup could remain largely the same, using platforms like PlayingCards.io for online play.
+Customization options should be expanded to allow players to create and share their own prompt and response cards, reflecting the dynamic and evolving nature of online communities.
+
+# 6. Gameplay Instructions Modification
+Discussion Points: After choosing a response card, the discussion could focus on the feasibility, potential impact, and ethical considerations of the chosen action within an online community context.
+Scoring System: Points could also be awarded for suggesting innovative solutions to the scenarios, encouraging players to think creatively.
+
+# 7. Educational Component
+Include an educational component or a guide within the game that provides information about managing online communities, ethical guidelines, and conflict resolution strategies. This can be beneficial for players who are actively involved in managing online communities.
+
+# 8. Customization and Expansion
+Encourage players to contribute their own experiences and scenarios they've encountered in online communities as new prompts for the game. This keeps the game relevant and continuously evolving.
+
+# 9. Promotion and Collaboration
+Collaborate with online community platforms for beta testing and feedback. This not only helps in refining the game but also in promoting awareness about ethical online community management.
+
+# INITIAL VERSION:
+
 # What Could Go Wrong - LLM Edition
 
 This repository hosts the files used for the What Could Go Wrong? digital card game. Nikolas Martelaro and Wendy Ju developed and presented the game at a Workshop at AutoUI 2020. The game was then modified by Nik and his team at CMU to be more generalized for AI-based systems.
