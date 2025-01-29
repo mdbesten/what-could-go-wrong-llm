@@ -34,10 +34,7 @@ While autonomous vehicles have the potential to greatly improve our daily lives,
 4. All other players then put 1 white response card face down in their slot.
 5. The Card Czar then flips and reads each white card out loud.
 6. The Card Czar then picks one of the white cards to further discuss. +1 point goes to the player whose card was chosen.
-7. The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
-8. Players are encouraged to swap event cards with others before submitting them to the Card Czar. This allows for strategic decision-making and adds a layer of interaction between players.
-9. After the discussion dissipates after a few minutes, the next player becomes the Card Czar and clicks the “Deal” button. Each player then draws a new white card, so that they again have 5 cards in their hand.
-10. Optional: Introduce a "Wildcard Round" where players can play any card from their hand instead of following the prompt. 
+
 
 ### During the game
 1. Take notes on ideas that you have not thought about before
@@ -84,5 +81,3 @@ For some motivation on why we want to develop new hazard analysis games.
   year={2022}
 }
 ```
-
-
